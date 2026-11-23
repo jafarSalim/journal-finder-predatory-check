@@ -1,0 +1,5 @@
+{
+ "note": "An example abstract written for this repository's tests (it describes the kind of study in the author's OFDM channel-estimation repositories). It is not a published paper.",
+ "title": "Deep Learning Channel Estimation for OFDM Systems Under Impulsive Noise",
+ "abstract": "Accurate channel estimation is essential for coherent detection in orthogonal frequency division multiplexing (OFDM) receivers. Classical least-squares and minimum mean-square error estimators degrade severely when the received pilots are corrupted by impulsive noise. We propose a convolutional neural network that treats the pilot grid as a low-resolution image and reconstructs the full time-frequency channel response. The network is trained on simulated 3GPP tapped-delay-line channels and evaluated against least-squares, linear MMSE and a denoising autoencoder. Across signal-to-noise ratios from 0 to 30 dB the proposed estimator lowers the normalized mean-square error and the bit error rate, and it remains robust when the impulsive-noise probability is increased."
+}

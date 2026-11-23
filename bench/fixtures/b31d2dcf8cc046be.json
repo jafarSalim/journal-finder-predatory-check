@@ -1,0 +1,32 @@
+{
+ "url": "https://api.openalex.org/sources/S49967189",
+ "recorded": "2026-11-23",
+ "body": {
+  "id": "https://openalex.org/S49967189",
+  "display_name": "Wireless Personal Communications",
+  "issn_l": "0929-6212",
+  "issn": [
+   "0929-6212",
+   "1572-834X"
+  ],
+  "type": "journal",
+  "host_organization_name": "Springer Science+Business Media",
+  "homepage_url": "http://www.springer.com/engineering/signals/journal/11277",
+  "works_count": 13606,
+  "cited_by_count": 199207,
+  "is_oa": false,
+  "is_in_doaj": false,
+  "apc_usd": 3390,
+  "country_code": "NL",
+  "summary_stats": {
+   "h_index": 123.0,
+   "i10_index": 5066.0,
+   "2yr_mean_citedness": 3.87
+  },
+  "counts_by_year": [
+   {
+    "year": 1994
+   }
+  ]
+ }
+}

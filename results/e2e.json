@@ -1,0 +1,87 @@
+[
+ {
+  "check": "service worker started",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "the finder builds its search from the abstract",
+  "ok": true,
+  "detail": "deep learning channel estimation ofdm systems impulsive noise"
+ },
+ {
+  "check": "one search + six journal profiles = 7 requests",
+  "ok": true,
+  "detail": "7"
+ },
+ {
+  "check": "IEEE Access comes first for the example abstract",
+  "ok": true,
+  "detail": "IEEE Access ; Wireless Personal Communications ; Sensors ; Electronics"
+ },
+ {
+  "check": "the top six journals carry an OpenAlex profile",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "journal cards are drawn with metrics",
+  "ok": true,
+  "detail": "10 cards"
+ },
+ {
+  "check": "checking IEEE Access from the finder: no warning signs",
+  "ok": true,
+  "detail": "no-signals"
+ },
+ {
+  "check": "plain journal page: ISSN found, valid, looked up in OpenAlex",
+  "ok": true,
+  "detail": "[{'issn': '2169-3536', 'valid': True}]"
+ },
+ {
+  "check": "plain journal page: no warning signs",
+  "ok": true,
+  "detail": "no-signals"
+ },
+ {
+  "check": "invented journal: 'several warning signs'",
+  "ok": true,
+  "detail": "score 16"
+ },
+ {
+  "check": "invented journal: all 8 page red flags and the bad ISSN check digit reported",
+  "ok": true,
+  "detail": "9 reasons"
+ },
+ {
+  "check": "invented journal: the invalid ISSN is not sent to OpenAlex",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "hijacked host: flagged as a hijacked copy, with the authentic site",
+  "ok": true,
+  "detail": "{'l': 'listed', 'k': 'hijacked', 'a': 'http://www.actabioethica.uchile.cl/index.php/AB/index'}"
+ },
+ {
+  "check": "a listed journal name typed with a typo is still found",
+  "ok": true,
+  "detail": "{'l': 'listed', 'h': 'near-identical name'}"
+ },
+ {
+  "check": "a typed ISSN is looked up in OpenAlex",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "selected text arrives in the finder",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "check": "every OpenAlex request was answered from the recordings",
+  "ok": true,
+  "detail": "10 served, 0 unknown"
+ }
+]

@@ -1,0 +1,609 @@
+{
+ "url": "https://api.openalex.org/works?search=coding%20metamaterials%20digital%20programmable&per_page=50&select=id,display_name,publication_year,primary_location",
+ "recorded": "2026-11-23",
+ "body": {
+  "meta": {
+   "count": 8275,
+   "per_page": 50
+  },
+  "results": [
+   {
+    "id": "https://openalex.org/W2082432933",
+    "display_name": null,
+    "publication_year": 2014,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S2498964232",
+      "display_name": "Light Science & Applications",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W4372337387",
+    "display_name": null,
+    "publication_year": 2023,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S196734849",
+      "display_name": "Scientific Reports",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W4385497504",
+    "display_name": null,
+    "publication_year": 2023,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4210212817",
+      "display_name": "Advanced Intelligent Systems",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W7223017255",
+    "display_name": null,
+    "publication_year": 2026,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4363608188",
+      "display_name": "International Conference on Electromagnetics in Advanced Applications (ICEAA)",
+      "type": "conference"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2968345302",
+    "display_name": null,
+    "publication_year": 2019,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S149016011",
+      "display_name": "Electronics Letters",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2782705336",
+    "display_name": null,
+    "publication_year": 2018,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S108229257",
+      "display_name": "Advanced Optical Materials",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2760405786",
+    "display_name": null,
+    "publication_year": 2017,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S108229257",
+      "display_name": "Advanced Optical Materials",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W3030629809",
+    "display_name": null,
+    "publication_year": 2020,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S3035551292",
+      "display_name": "PhotoniX",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2609351563",
+    "display_name": null,
+    "publication_year": 2017,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S128936867",
+      "display_name": "Journal of Optics",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W3045326985",
+    "display_name": null,
+    "publication_year": 2020,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S2898358376",
+      "display_name": "iScience",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2990697608",
+    "display_name": null,
+    "publication_year": 2019,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S59479367",
+      "display_name": "Microwave and Optical Technology Letters",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W4367724849",
+    "display_name": null,
+    "publication_year": 2023,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4387288649",
+      "display_name": "Programmable Materials",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W4237700436",
+    "display_name": null,
+    "publication_year": 2017,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S2734413303",
+      "display_name": "National Science Review",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W4403141055",
+    "display_name": null,
+    "publication_year": 2024,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S99352657",
+      "display_name": "Advanced Materials",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2770945243",
+    "display_name": null,
+    "publication_year": 2017,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S108229257",
+      "display_name": "Advanced Optical Materials",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2336687233",
+    "display_name": null,
+    "publication_year": 2016,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S187991544",
+      "display_name": "Journal of Applied Physics",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2901348109",
+    "display_name": null,
+    "publication_year": 2018,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S2734413303",
+      "display_name": "National Science Review",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2260784149",
+    "display_name": null,
+    "publication_year": 2016,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S196734849",
+      "display_name": "Scientific Reports",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2520390433",
+    "display_name": null,
+    "publication_year": 2016,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4306419743",
+      "display_name": "International Conference on Optical MEMS and Nanophotonics",
+      "type": "conference"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W4386155283",
+    "display_name": null,
+    "publication_year": 2023,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4306525896",
+      "display_name": "Research Square",
+      "type": "repository"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W4211065133",
+    "display_name": null,
+    "publication_year": 2019,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4210234670",
+      "display_name": "Nature Reviews Physics",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W4406951686",
+    "display_name": null,
+    "publication_year": 2025,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S64187185",
+      "display_name": "Nature Communications",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2914030114",
+    "display_name": null,
+    "publication_year": 2019,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S196734849",
+      "display_name": "Scientific Reports",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W3094335920",
+    "display_name": null,
+    "publication_year": 2020,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4210201508",
+      "display_name": "Scientia Sinica Informationis",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2887411156",
+    "display_name": null,
+    "publication_year": 2018,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S2737737698",
+      "display_name": "Advanced Science",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W4210504698",
+    "display_name": null,
+    "publication_year": 2021,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4306462995",
+      "display_name": "Cambridge University Press eBooks",
+      "type": "ebook platform"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2956938792",
+    "display_name": null,
+    "publication_year": 2020,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S64187185",
+      "display_name": "Nature Communications",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W4205602402",
+    "display_name": null,
+    "publication_year": 2022,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S2737520951",
+      "display_name": "Nanophotonics",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W4366502757",
+    "display_name": null,
+    "publication_year": 2023,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4387288844",
+      "display_name": "Electromagnetic Science",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2346871083",
+    "display_name": null,
+    "publication_year": 2016,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S2498964232",
+      "display_name": "Light Science & Applications",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2980902966",
+    "display_name": null,
+    "publication_year": 2019,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S108229257",
+      "display_name": "Advanced Optical Materials",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W3114213209",
+    "display_name": null,
+    "publication_year": 2020,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S950076683",
+      "display_name": "Acta Physica Sinica",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W3004504847",
+    "display_name": null,
+    "publication_year": 2020,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S196734849",
+      "display_name": "Scientific Reports",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W3134372534",
+    "display_name": null,
+    "publication_year": 2021,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S64187185",
+      "display_name": "Nature Communications",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2923710237",
+    "display_name": null,
+    "publication_year": 2018,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S2737520951",
+      "display_name": "Nanophotonics",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W4394606675",
+    "display_name": null,
+    "publication_year": 2024,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S95928045",
+      "display_name": "Laser & Photonics Review",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W4399489151",
+    "display_name": null,
+    "publication_year": 2024,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S7407096615",
+      "display_name": "SPIE Metamaterials Conference",
+      "type": "conference"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W4414315347",
+    "display_name": null,
+    "publication_year": 2025,
+    "primary_location": {
+     "source": null
+    }
+   },
+   {
+    "id": "https://openalex.org/W4387044350",
+    "display_name": null,
+    "publication_year": 2023,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S64187185",
+      "display_name": "Nature Communications",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W4379984917",
+    "display_name": null,
+    "publication_year": 2023,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S2764453006",
+      "display_name": "Physical Review Applied",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2587399384",
+    "display_name": null,
+    "publication_year": 2017,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S196734849",
+      "display_name": "Scientific Reports",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W4405931533",
+    "display_name": null,
+    "publication_year": 2025,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S2498964232",
+      "display_name": "Light Science & Applications",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2885128551",
+    "display_name": null,
+    "publication_year": 2018,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4210185519",
+      "display_name": "IEEE MTT-S International Microwave Symposium digest",
+      "type": "conference"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2760097581",
+    "display_name": null,
+    "publication_year": 2017,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S189917590",
+      "display_name": "AIP Advances",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W4294755044",
+    "display_name": null,
+    "publication_year": 2022,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4210232664",
+      "display_name": "npj Computational Materials",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W4390548042",
+    "display_name": null,
+    "publication_year": 2024,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4210198424",
+      "display_name": "Journal of Physics: Photonics",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W4391295148",
+    "display_name": null,
+    "publication_year": 2018,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4306401280",
+      "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+      "type": "repository"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W3007868543",
+    "display_name": null,
+    "publication_year": 2020,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S196734849",
+      "display_name": "Scientific Reports",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2276421297",
+    "display_name": null,
+    "publication_year": 2015,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S108229257",
+      "display_name": "Advanced Optical Materials",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W7133973726",
+    "display_name": null,
+    "publication_year": 2026,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S6377669",
+      "display_name": "Soft Matter",
+      "type": "journal"
+     }
+    }
+   }
+  ],
+  "query_of": "W2082432933"
+ }
+}

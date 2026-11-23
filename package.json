@@ -1,0 +1,15 @@
+{
+  "name": "journal-finder-predatory-check",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "license": "MIT",
+  "author": "Jaafar Salim",
+  "scripts": {
+    "test": "node --test test/*.test.js",
+    "lists": "python3 scripts/build_lists.py",
+    "bench": "python3 bench/make_fixtures.py && node bench/run.js",
+    "figures": "python3 bench/plot_results.py",
+    "e2e": "xvfb-run -a python3 scripts/e2e.py"
+  }
+}

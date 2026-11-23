@@ -1,0 +1,613 @@
+{
+ "url": "https://api.openalex.org/works?search=deep%20learning%20channel%20estimation%20ofdm%20systems%20impulsive%20noise&per_page=50&select=id,display_name,publication_year,primary_location",
+ "recorded": "2026-11-23",
+ "body": {
+  "meta": {
+   "count": 657,
+   "per_page": 50
+  },
+  "results": [
+   {
+    "id": "https://openalex.org/W4223531593",
+    "display_name": "Deep Learning for OFDM Channel Estimation in Impulsive Noise Environme",
+    "publication_year": 2022,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S49967189",
+      "display_name": "Wireless Personal Communications",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2908297746",
+    "display_name": "Impulsive Noise Detection in OFDM-based Systems: A Deep Learning Perspe",
+    "publication_year": 2019,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4363608098",
+      "display_name": "IEEE Annual Computing and Communication Workshop and Conference (CCWC)",
+      "type": "conference"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W7151358748",
+    "display_name": "CFO Estimation for OFDM-Based Wireless Communication Systems Under Imp",
+    "publication_year": 2026,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S7407089240",
+      "display_name": "IEEE International Conference on Interdisciplinary Approaches in Technology and Management for Social Innovation (IATMSI)",
+      "type": "conference"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2915097532",
+    "display_name": "Deep Neural Networks for Channel Estimation in Underwater Acoustic OFD",
+    "publication_year": 2019,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S2485537415",
+      "display_name": "IEEE Access",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W7140312851",
+    "display_name": "Quantum Machine Learning for Robust Channel Estimation in Cyclic Prefi",
+    "publication_year": 2026,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S2764698983",
+      "display_name": "Journal of Communication and Information Systems",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W7133554158",
+    "display_name": "Enhanced deep learning–based channel estimator for OFDM narrowband po",
+    "publication_year": 2026,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S164884734",
+      "display_name": "Annals of Telecommunications",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W3156780706",
+    "display_name": "Deep-Learning Based Ship-Radiated Noise Suppression for Underwater Aco",
+    "publication_year": 2020,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4306511556",
+      "display_name": "Global Oceans 2020: Singapore – U.S. Gulf Coast",
+      "type": "conference"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W4224241388",
+    "display_name": "Deep Learning for Channel Estimation and Signal Detection in OFDM-Base",
+    "publication_year": 2022,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4210224787",
+      "display_name": "ELKHA",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W4391616536",
+    "display_name": "Underwater-Acoustic-OFDM Channel Estimation Based on Deep Learning and",
+    "publication_year": 2024,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4210202905",
+      "display_name": "Electronics",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2940569472",
+    "display_name": "Mitigating Impulsive Noise for Wavelet-OFDM Powerline Communication",
+    "publication_year": 2019,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S198098182",
+      "display_name": "Energies",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W4412996508",
+    "display_name": "A Hybrid Deep Learning and Optimization Approach for Accurate Channel",
+    "publication_year": 2025,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S23629721",
+      "display_name": "International Journal of Advanced Computer Science and Applications",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W7127132402",
+    "display_name": "A Deep Learning Phase Noise Compensation Network for Photonic Terahert",
+    "publication_year": 2026,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4210202905",
+      "display_name": "Electronics",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W3080788880",
+    "display_name": "Channel Estimation Based on Adaptive Denoising for Underwater Acoustic",
+    "publication_year": 2020,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S2485537415",
+      "display_name": "IEEE Access",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W3013736034",
+    "display_name": "Deep Learning Decoder for MIMO Communications with Impulsive Noise",
+    "publication_year": 2020,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4393918466",
+      "display_name": "IEEE Consumer Communications and Networking Conference",
+      "type": "conference"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2981170830",
+    "display_name": "Impulsive noise cancellation and channel estimation in power line comm",
+    "publication_year": 2019,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4377196262",
+      "display_name": "UPCommons institutional repository (Universitat Politècnica de Catalunya)",
+      "type": "repository"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W4317906240",
+    "display_name": "Impulsive Noise Cancellation in OFDM System Using Low Density Parity C",
+    "publication_year": 2023,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4210214087",
+      "display_name": "Computer Systems Science and Engineering",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2805171776",
+    "display_name": "Efficient Impulsive Noise Mitigation for OFDM Systems Using the Alterna",
+    "publication_year": 2018,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S178238111",
+      "display_name": "Mathematical Problems in Engineering",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W7144029856",
+    "display_name": "Research on Channel Estimation and Interference Suppression in the OFD",
+    "publication_year": 2023,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S7407056385",
+      "display_name": "Institutional Repositories DataBase (IRDB)",
+      "type": "repository"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W4386363102",
+    "display_name": "Deep Learning-Assisted Channel Estimation in Frequency Selective UWA C",
+    "publication_year": 2023,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S2485537415",
+      "display_name": "IEEE Access",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W3186899286",
+    "display_name": "Bayesian Learning-Based Clustered-Sparse Channel Estimation for Time-V",
+    "publication_year": 2021,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S101949793",
+      "display_name": "Sensors",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2922241166",
+    "display_name": "Spectrum-Efficient Distributed Compressed Sensing Based Channel Estima",
+    "publication_year": 2019,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S2485537415",
+      "display_name": "IEEE Access",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2929132953",
+    "display_name": "Channel Estimation and ICI Cancelation in Vehicular Channels of OFDM W",
+    "publication_year": 2018,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4377196371",
+      "display_name": "Digital Scholarship - UNLV (University of Nevada Reno)",
+      "type": "repository"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W4313522488",
+    "display_name": "Deep reinforcement learning-based adaptive modulation for OFDM underw",
+    "publication_year": 2023,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S35920007",
+      "display_name": "EURASIP Journal on Advances in Signal Processing",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W4390604492",
+    "display_name": "Hybrid AE and Bi-LSTM-Aided Sparse Multipath Channel Estimation in OFD",
+    "publication_year": 2024,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S2485537415",
+      "display_name": "IEEE Access",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W4394821048",
+    "display_name": "Channel Estimation for Underwater Acoustic Communications in Impulsive",
+    "publication_year": 2024,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S43295729",
+      "display_name": "Remote Sensing",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2622375403",
+    "display_name": "Contribution to MIMO-OFDM Mobile Radio Channel Estimation Using SVR",
+    "publication_year": 2015,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4306402512",
+      "display_name": "HAL",
+      "type": "repository"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W4404860099",
+    "display_name": "Deep learning based signal processing and detection for multiple medic",
+    "publication_year": 2024,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S196734849",
+      "display_name": "Scientific Reports",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W4389542655",
+    "display_name": "Deep Learning for Channel Estimation in Physical Layer Wireless Commun",
+    "publication_year": 2023,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4210202905",
+      "display_name": "Electronics",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W4379382365",
+    "display_name": "An Adaptive and Robust Deep Learning Framework for THz Ultra-Massive M",
+    "publication_year": 2023,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S42167783",
+      "display_name": "IEEE Journal of Selected Topics in Signal Processing",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2907976460",
+    "display_name": "Impulsive Noise Mitigation in Underwater Acoustic Communication System",
+    "publication_year": 2019,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4363608098",
+      "display_name": "IEEE Annual Computing and Communication Workshop and Conference (CCWC)",
+      "type": "conference"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W4388728968",
+    "display_name": "Deep Learning for Channel Estimation and Security Detection in Wireles",
+    "publication_year": 2023,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S7407086857",
+      "display_name": "International Conference on High Performance Compilation, Computing and Communications (HP3C)",
+      "type": "conference"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W7167929753",
+    "display_name": "Deep Learning for Joint Narrowband Interference Cancellation and Soft",
+    "publication_year": 2026,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4306400194",
+      "display_name": "arXiv (Cornell University)",
+      "type": "repository"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W4413940889",
+    "display_name": "Parameter Estimation of Ocean Impulsive Noise Using Hybrid Deep Neural",
+    "publication_year": 2025,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S149016011",
+      "display_name": "Electronics Letters",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W4411973025",
+    "display_name": "Off-Grid Sparse Bayesian Learning for Channel Estimation and Localizat",
+    "publication_year": 2025,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S101949793",
+      "display_name": "Sensors",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W3216108359",
+    "display_name": "Federated Learning for Channel Estimation in Conventional and RIS-Assi",
+    "publication_year": 2021,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S63459445",
+      "display_name": "IEEE Transactions on Wireless Communications",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W4412954330",
+    "display_name": "An Efficient Adaptive Channel Estimation in a Massive MIMO-OFDM Commun",
+    "publication_year": 2025,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4210216879",
+      "display_name": "Instrumentation Mesure Métrologie",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W4402621356",
+    "display_name": "A Deep Learning-based Approach for Channel Estimation in Multi-access",
+    "publication_year": 2024,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S2764512266",
+      "display_name": "Journal of Telecommunications and Information Technology",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W4392607655",
+    "display_name": "Joint Channel Estimation, Data Decoding, and Group-Sparse Impulsive Noi",
+    "publication_year": 2024,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S2485537415",
+      "display_name": "IEEE Access",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W4385445397",
+    "display_name": "Model-Driven Deep-Learning-Based Underwater Acoustic OTFS Channel Esti",
+    "publication_year": 2023,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S2736865057",
+      "display_name": "Journal of Marine Science and Engineering",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W7116067626",
+    "display_name": "Low-complexity Deep Learning for Joint Channel-type Identification and",
+    "publication_year": 2026,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S2764379787",
+      "display_name": "International journal of intelligent engineering and systems",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W4311108124",
+    "display_name": "Artificial intelligence for channel estimation in multicarrier systems",
+    "publication_year": 2022,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S82675988",
+      "display_name": "EURASIP Journal on Wireless Communications and Networking",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W4401657021",
+    "display_name": "Channel equalization through pre-denoising using a hybrid multiscale d",
+    "publication_year": 2024,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S175310385",
+      "display_name": "International Journal of Communication Systems",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W4312492293",
+    "display_name": "Noncoherent OFDM Transmission via Off-the-Grid Joint Channel and Data E",
+    "publication_year": 2022,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S2500830676",
+      "display_name": "IEEE Wireless Communications Letters",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W4323665392",
+    "display_name": "A Survey of Deep Learning Based NOMA: State of the Art, Key Aspects, O",
+    "publication_year": 2023,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S101949793",
+      "display_name": "Sensors",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W3089071411",
+    "display_name": "Time-Varying Sparse Channel Estimation Based on Adaptive Average and M",
+    "publication_year": 2020,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S2485537415",
+      "display_name": "IEEE Access",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W4313591144",
+    "display_name": "Coded Assisted Transmit and Receive IQ Mismatch Compensation With Chan",
+    "publication_year": 2023,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S2485537415",
+      "display_name": "IEEE Access",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W4206784960",
+    "display_name": "Application of Reinforcement Learning and Deep Learning in Multiple-Inp",
+    "publication_year": 2021,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S101949793",
+      "display_name": "Sensors",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W4414848478",
+    "display_name": "A Carrier Frequency Offset Estimation Scheme for Underwater Acoustic M",
+    "publication_year": 2025,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4210205812",
+      "display_name": "Applied Sciences",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W3111679652",
+    "display_name": "A Novel Underwater Acoustic Signal Denoising Algorithm for Gaussian/No",
+    "publication_year": 2020,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S10936095",
+      "display_name": "IEEE Transactions on Vehicular Technology",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W4414656027",
+    "display_name": "Channel Estimation Using Linear Regression with Bernoulli–Gaussian Noi",
+    "publication_year": 2025,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4210205812",
+      "display_name": "Applied Sciences",
+      "type": "journal"
+     }
+    }
+   }
+  ],
+  "query_of": "example"
+ }
+}

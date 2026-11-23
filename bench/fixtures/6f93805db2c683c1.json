@@ -1,0 +1,32 @@
+{
+ "url": "https://api.openalex.org/sources/S164884734",
+ "recorded": "2026-11-23",
+ "body": {
+  "id": "https://openalex.org/S164884734",
+  "display_name": "Annals of Telecommunications",
+  "issn_l": "0003-4347",
+  "issn": [
+   "0003-4347",
+   "1958-9395"
+  ],
+  "type": "journal",
+  "host_organization_name": "Springer Nature",
+  "homepage_url": "https://www.springer.com/journal/12243",
+  "works_count": 5440,
+  "cited_by_count": 32991,
+  "is_oa": false,
+  "is_in_doaj": false,
+  "apc_usd": 2890,
+  "country_code": "FR",
+  "summary_stats": {
+   "h_index": 69.0,
+   "i10_index": 806.0,
+   "2yr_mean_citedness": 3.87
+  },
+  "counts_by_year": [
+   {
+    "year": 1946
+   }
+  ]
+ }
+}

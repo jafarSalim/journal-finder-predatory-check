@@ -1,0 +1,31 @@
+{
+ "url": "https://api.openalex.org/sources/S2485537415",
+ "recorded": "2026-11-23",
+ "body": {
+  "id": "https://openalex.org/S2485537415",
+  "display_name": "IEEE Access",
+  "issn_l": "2169-3536",
+  "issn": [
+   "2169-3536"
+  ],
+  "type": "journal",
+  "host_organization_name": "Institute of Electrical and Electronics Engineers",
+  "homepage_url": "http://ieeexplore.ieee.org/servlet/opac?punumber=6287639",
+  "works_count": 113036,
+  "cited_by_count": 2643893,
+  "is_oa": true,
+  "is_in_doaj": true,
+  "apc_usd": 2075,
+  "country_code": "US",
+  "summary_stats": {
+   "h_index": 379.0,
+   "i10_index": 56258.0,
+   "2yr_mean_citedness": 6.416188777610097
+  },
+  "counts_by_year": [
+   {
+    "year": 2012
+   }
+  ]
+ }
+}

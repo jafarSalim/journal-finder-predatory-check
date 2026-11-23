@@ -1,0 +1,609 @@
+{
+ "url": "https://api.openalex.org/works?search=intelligent%20walls%20autonomous%20parts%20smart%20indoor%20environments&per_page=50&select=id,display_name,publication_year,primary_location",
+ "recorded": "2026-11-23",
+ "body": {
+  "meta": {
+   "count": 6674,
+   "per_page": 50
+  },
+  "results": [
+   {
+    "id": "https://openalex.org/W2037866776",
+    "display_name": null,
+    "publication_year": 2012,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S85427048",
+      "display_name": "IET Communications",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W4309908775",
+    "display_name": null,
+    "publication_year": 2022,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S2734413303",
+      "display_name": "National Science Review",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W3179120174",
+    "display_name": null,
+    "publication_year": 2021,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4210232487",
+      "display_name": "Robotics",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W3017034203",
+    "display_name": null,
+    "publication_year": 2020,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S90422530",
+      "display_name": "IEEE Journal on Selected Areas in Communications",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W3202940227",
+    "display_name": null,
+    "publication_year": 2021,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S2485537415",
+      "display_name": "IEEE Access",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W4416192651",
+    "display_name": null,
+    "publication_year": 2025,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4210219839",
+      "display_name": "Machines",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W4323925960",
+    "display_name": null,
+    "publication_year": 2023,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S91329792",
+      "display_name": "Journal of Intelligent & Robotic Systems",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2901113082",
+    "display_name": null,
+    "publication_year": 2018,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4306400473",
+      "display_name": "YorkSpace (York University)",
+      "type": "repository"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W3027118737",
+    "display_name": null,
+    "publication_year": 2020,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S23688054",
+      "display_name": "IEEE Communications Surveys & Tutorials",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W4414229190",
+    "display_name": null,
+    "publication_year": 2025,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4210201067",
+      "display_name": "IEEE Open Journal of Vehicular Technology",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W3207653842",
+    "display_name": null,
+    "publication_year": 2021,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4210177564",
+      "display_name": "AgriEngineering",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W3082895432",
+    "display_name": null,
+    "publication_year": 2020,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4210202420",
+      "display_name": "IEEE Open Journal of the Communications Society",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W3135860528",
+    "display_name": null,
+    "publication_year": 2021,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S2764379787",
+      "display_name": "International journal of intelligent engineering and systems",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2411729288",
+    "display_name": null,
+    "publication_year": 2016,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S56464651",
+      "display_name": "Building and Environment",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2807100974",
+    "display_name": null,
+    "publication_year": 2017,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4306402261",
+      "display_name": "Libraries and Cultural Resources (University of Calgary)",
+      "type": "repository"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W4226322272",
+    "display_name": null,
+    "publication_year": 2022,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S2485537415",
+      "display_name": "IEEE Access",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W4387166575",
+    "display_name": null,
+    "publication_year": 2023,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S133768115",
+      "display_name": "Robotics and Autonomous Systems",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2530554965",
+    "display_name": null,
+    "publication_year": 2015,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4377196266",
+      "display_name": "elib (German Aerospace Center)",
+      "type": "repository"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W4319840304",
+    "display_name": null,
+    "publication_year": 2023,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S151299380",
+      "display_name": "Journal of Field Robotics",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2111116428",
+    "display_name": null,
+    "publication_year": 2006,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4210217939",
+      "display_name": "Proceedings - IEEE International Conference on Robotics and Automation/Proceedings",
+      "type": "conference"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W7233983271",
+    "display_name": null,
+    "publication_year": 2026,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4210240841",
+      "display_name": "INTERANTIONAL JOURNAL OF SCIENTIFIC RESEARCH IN ENGINEERING AND MANAGEMENT",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W4388856936",
+    "display_name": null,
+    "publication_year": 2023,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4210202905",
+      "display_name": "Electronics",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W4322740300",
+    "display_name": null,
+    "publication_year": 2023,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4210172554",
+      "display_name": "Fire",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W7170041460",
+    "display_name": null,
+    "publication_year": 2026,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S2738079823",
+      "display_name": "Mechatronics Electrical Power and Vehicular Technology",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W1599976967",
+    "display_name": null,
+    "publication_year": 2012,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4306402302",
+      "display_name": "Repository for Publications and Research Data (ETH Zurich)",
+      "type": "repository"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W3182549129",
+    "display_name": null,
+    "publication_year": 2021,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S57667410",
+      "display_name": "Annals of Operations Research",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W3084930994",
+    "display_name": null,
+    "publication_year": 2020,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4210201879",
+      "display_name": "Processes",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2791407463",
+    "display_name": null,
+    "publication_year": 2001,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4306400680",
+      "display_name": "University of Surrey Open Research repository",
+      "type": "repository"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W3023185808",
+    "display_name": null,
+    "publication_year": 2020,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4306463448",
+      "display_name": "IntechOpen eBooks",
+      "type": "ebook platform"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2807756458",
+    "display_name": null,
+    "publication_year": 2000,
+    "primary_location": {
+     "source": null
+    }
+   },
+   {
+    "id": "https://openalex.org/W7213469469",
+    "display_name": null,
+    "publication_year": 2026,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S133768115",
+      "display_name": "Robotics and Autonomous Systems",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2198683756",
+    "display_name": null,
+    "publication_year": 2015,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S96783963",
+      "display_name": "Journal of Sensors",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W4317935786",
+    "display_name": null,
+    "publication_year": 2023,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4210222206",
+      "display_name": "IAES International Journal of Robotics and Automation (IJRA)",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W4404592448",
+    "display_name": null,
+    "publication_year": 2024,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S83215360",
+      "display_name": "IET Image Processing",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W4308437361",
+    "display_name": null,
+    "publication_year": 2022,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4210223237",
+      "display_name": "Reviews of Electromagnetics",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W1996943187",
+    "display_name": null,
+    "publication_year": 2014,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S101949793",
+      "display_name": "Sensors",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2305801123",
+    "display_name": null,
+    "publication_year": 2013,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4306400770",
+      "display_name": "UTHM Institutional Repository (Universiti Tun Hussein Onn Malaysia)",
+      "type": "repository"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W169933034",
+    "display_name": null,
+    "publication_year": 2012,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4306400906",
+      "display_name": "Research Repository (Delft University of Technology)",
+      "type": "repository"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2963121727",
+    "display_name": null,
+    "publication_year": 2019,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S82675988",
+      "display_name": "EURASIP Journal on Wireless Communications and Networking",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W4401552908",
+    "display_name": null,
+    "publication_year": 2024,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4390297101",
+      "display_name": "Transactions on Computer Science and Intelligent Systems Research",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W3024052424",
+    "display_name": null,
+    "publication_year": 2022,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4306401246",
+      "display_name": "Liverpool John Moores University",
+      "type": "repository"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2951376269",
+    "display_name": null,
+    "publication_year": 2019,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S101949793",
+      "display_name": "Sensors",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W4224101940",
+    "display_name": null,
+    "publication_year": 2022,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S198098182",
+      "display_name": "Energies",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W4309721259",
+    "display_name": null,
+    "publication_year": 2022,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S101949793",
+      "display_name": "Sensors",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W7217554696",
+    "display_name": null,
+    "publication_year": 2024,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S7407055329",
+      "display_name": "PORTO@Iris",
+      "type": "repository"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W4390972026",
+    "display_name": null,
+    "publication_year": 2024,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S101949793",
+      "display_name": "Sensors",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W4311810279",
+    "display_name": null,
+    "publication_year": 2022,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4306400562",
+      "display_name": "Zenodo (CERN European Organization for Nuclear Research)",
+      "type": "repository"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2604730214",
+    "display_name": null,
+    "publication_year": 2017,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4210228415",
+      "display_name": "Journal of Smart Cities",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2885744570",
+    "display_name": null,
+    "publication_year": 2018,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S2764431341",
+      "display_name": "ISPRS International Journal of Geo-Information",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2603071509",
+    "display_name": null,
+    "publication_year": 2017,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S96783963",
+      "display_name": "Journal of Sensors",
+      "type": "journal"
+     }
+    }
+   }
+  ],
+  "query_of": "W2037866776"
+ }
+}

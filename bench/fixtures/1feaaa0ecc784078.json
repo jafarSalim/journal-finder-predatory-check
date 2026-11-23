@@ -1,0 +1,613 @@
+{
+ "url": "https://api.openalex.org/works?search=joint%20beamforming%20power%20control%20multiantenna%20relay%20broadcast%20channel&per_page=50&select=id,display_name,publication_year,primary_location",
+ "recorded": "2026-11-23",
+ "body": {
+  "meta": {
+   "count": 1193,
+   "per_page": 50
+  },
+  "results": [
+   {
+    "id": "https://openalex.org/W2167282237",
+    "display_name": null,
+    "publication_year": 2008,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S168680287",
+      "display_name": "IEEE Transactions on Signal Processing",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2025829033",
+    "display_name": null,
+    "publication_year": 2012,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S168680287",
+      "display_name": "IEEE Transactions on Signal Processing",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2516545426",
+    "display_name": null,
+    "publication_year": 2016,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S10936095",
+      "display_name": "IEEE Transactions on Vehicular Technology",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W1971177458",
+    "display_name": null,
+    "publication_year": 2013,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S10936095",
+      "display_name": "IEEE Transactions on Vehicular Technology",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2135461885",
+    "display_name": null,
+    "publication_year": 2013,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S10936095",
+      "display_name": "IEEE Transactions on Vehicular Technology",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W1978843742",
+    "display_name": null,
+    "publication_year": 2011,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S10936095",
+      "display_name": "IEEE Transactions on Vehicular Technology",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2134982728",
+    "display_name": null,
+    "publication_year": 2013,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S29243050",
+      "display_name": "The Scientific World JOURNAL",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W4386924213",
+    "display_name": null,
+    "publication_year": 2023,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S178238111",
+      "display_name": "Mathematical Problems in Engineering",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2119523314",
+    "display_name": null,
+    "publication_year": 2009,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S90422530",
+      "display_name": "IEEE Journal on Selected Areas in Communications",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W1980121217",
+    "display_name": null,
+    "publication_year": 2013,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S147316732",
+      "display_name": "IEEE Communications Letters",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2745129357",
+    "display_name": null,
+    "publication_year": 2017,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S82675988",
+      "display_name": "EURASIP Journal on Wireless Communications and Networking",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2581376251",
+    "display_name": null,
+    "publication_year": 2017,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S63459445",
+      "display_name": "IEEE Transactions on Wireless Communications",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2963145728",
+    "display_name": null,
+    "publication_year": 2017,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S10936095",
+      "display_name": "IEEE Transactions on Vehicular Technology",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2099468993",
+    "display_name": null,
+    "publication_year": 2010,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S168680287",
+      "display_name": "IEEE Transactions on Signal Processing",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W4206804325",
+    "display_name": null,
+    "publication_year": 2021,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S2485537415",
+      "display_name": "IEEE Access",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2935217963",
+    "display_name": null,
+    "publication_year": 2019,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S2480266640",
+      "display_name": "IEEE Internet of Things Journal",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W1503832875",
+    "display_name": null,
+    "publication_year": 2015,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S10936095",
+      "display_name": "IEEE Transactions on Vehicular Technology",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W3154846188",
+    "display_name": null,
+    "publication_year": 2022,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S63459445",
+      "display_name": "IEEE Transactions on Wireless Communications",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W3114917120",
+    "display_name": null,
+    "publication_year": 2020,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S2480266640",
+      "display_name": "IEEE Internet of Things Journal",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2806169746",
+    "display_name": null,
+    "publication_year": 2018,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S63459445",
+      "display_name": "IEEE Transactions on Wireless Communications",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2078798155",
+    "display_name": null,
+    "publication_year": 2013,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S153101029",
+      "display_name": "International Journal of Antennas and Propagation",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2121129625",
+    "display_name": null,
+    "publication_year": 2010,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4306417658",
+      "display_name": "Allerton Conference on Communication, Control, and Computing",
+      "type": "conference"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2065870729",
+    "display_name": null,
+    "publication_year": 2013,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4210205019",
+      "display_name": "Globecom",
+      "type": "conference"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W3200731461",
+    "display_name": null,
+    "publication_year": 2021,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S190787756",
+      "display_name": "Symmetry",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W1977426744",
+    "display_name": null,
+    "publication_year": 2011,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S168680287",
+      "display_name": "IEEE Transactions on Signal Processing",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2518089257",
+    "display_name": null,
+    "publication_year": 2014,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4306402609",
+      "display_name": "DR-NTU (Nanyang Technological University)",
+      "type": "repository"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W1572536323",
+    "display_name": null,
+    "publication_year": 2015,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4306422866",
+      "display_name": "IEEE Transactions on Signal and Information Processing over Networks",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2969424089",
+    "display_name": null,
+    "publication_year": 2019,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S63459445",
+      "display_name": "IEEE Transactions on Wireless Communications",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2615248543",
+    "display_name": null,
+    "publication_year": 2012,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4306401586",
+      "display_name": "e-scholar@UOIT (University of Ontario Institute of Technology)",
+      "type": "repository"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2102942426",
+    "display_name": null,
+    "publication_year": 2011,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S2500830676",
+      "display_name": "IEEE Wireless Communications Letters",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2733662793",
+    "display_name": null,
+    "publication_year": 2017,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4306400194",
+      "display_name": "arXiv (Cornell University)",
+      "type": "repository"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2166944271",
+    "display_name": null,
+    "publication_year": 2011,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S168680287",
+      "display_name": "IEEE Transactions on Signal Processing",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W1996356079",
+    "display_name": null,
+    "publication_year": 2014,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S63459445",
+      "display_name": "IEEE Transactions on Wireless Communications",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2730333068",
+    "display_name": null,
+    "publication_year": 2012,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4306400261",
+      "display_name": "TSpace (University of Toronto)",
+      "type": "repository"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2790563587",
+    "display_name": null,
+    "publication_year": 2018,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4306401585",
+      "display_name": "White Rose eTheses Online (University of Leeds, The University of Sheffield, University of York)",
+      "type": "repository"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2505665730",
+    "display_name": null,
+    "publication_year": 2016,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S61310614",
+      "display_name": "IEEE Transactions on Information Forensics and Security",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W1911476179",
+    "display_name": null,
+    "publication_year": 2015,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S168680287",
+      "display_name": "IEEE Transactions on Signal Processing",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2976573329",
+    "display_name": null,
+    "publication_year": 2019,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S120629676",
+      "display_name": "IEEE Signal Processing Letters",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2899962450",
+    "display_name": null,
+    "publication_year": 2015,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S7407053046",
+      "display_name": "ERA: Education and Research Archive (University of Alberta)",
+      "type": "repository"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2125157520",
+    "display_name": null,
+    "publication_year": 2010,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S10936095",
+      "display_name": "IEEE Transactions on Vehicular Technology",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W4233228731",
+    "display_name": null,
+    "publication_year": 2012,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S2764746358",
+      "display_name": "Indian Journal of Science and Technology",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2103895872",
+    "display_name": null,
+    "publication_year": 2013,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S64417657",
+      "display_name": "International Journal of Distributed Sensor Networks",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2151488545",
+    "display_name": null,
+    "publication_year": 2015,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S90422530",
+      "display_name": "IEEE Journal on Selected Areas in Communications",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W1990495438",
+    "display_name": null,
+    "publication_year": 2015,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S82675988",
+      "display_name": "EURASIP Journal on Wireless Communications and Networking",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W4401634120",
+    "display_name": null,
+    "publication_year": 2024,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S2485537415",
+      "display_name": "IEEE Access",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2803170239",
+    "display_name": null,
+    "publication_year": 2018,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S23688054",
+      "display_name": "IEEE Communications Surveys & Tutorials",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W4225300136",
+    "display_name": null,
+    "publication_year": 2022,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4363607879",
+      "display_name": "IEEE International Conference on Acoustics Speech and Signal Processing",
+      "type": "conference"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W3012149985",
+    "display_name": null,
+    "publication_year": 2013,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S168680287",
+      "display_name": "IEEE Transactions on Signal Processing",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W4411867056",
+    "display_name": null,
+    "publication_year": 2025,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4210202420",
+      "display_name": "IEEE Open Journal of the Communications Society",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W3204184545",
+    "display_name": null,
+    "publication_year": 2022,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S23688054",
+      "display_name": "IEEE Communications Surveys & Tutorials",
+      "type": "journal"
+     }
+    }
+   }
+  ],
+  "query_of": "W2167282237"
+ }
+}

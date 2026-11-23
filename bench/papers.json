@@ -1,0 +1,146 @@
+[
+ {
+  "id": "W2969424089",
+  "doi": "10.1109/twc.2019.2936025",
+  "title": "Intelligent Reflecting Surface Enhanced Wireless Network via Joint Active and Passive Beamforming",
+  "year": 2019
+ },
+ {
+  "id": "W2735938380",
+  "doi": "10.1109/tsp.2018.2816577",
+  "title": "Beyond Massive MIMO: The Potential of Data Transmission With Large Intelligent Surfaces",
+  "year": 2018
+ },
+ {
+  "id": "W2054692642",
+  "doi": "10.1109/jsac.2014.2328098",
+  "title": "What Will 5G Be?",
+  "year": 2014
+ },
+ {
+  "id": "W2990747873",
+  "doi": "10.1109/mcom.001.1900107",
+  "title": "Towards Smart and Reconfigurable Environment: Intelligent Reflecting Surface Aided Wireless Network",
+  "year": 2019
+ },
+ {
+  "id": "W2941655922",
+  "doi": "10.1109/twc.2019.2922609",
+  "title": "Reconfigurable Intelligent Surfaces for Energy Efficiency in Wireless Communication",
+  "year": 2019
+ },
+ {
+  "id": "W2103972037",
+  "doi": "10.1109/mcom.2014.6736746",
+  "title": "Five disruptive technology directions for 5G",
+  "year": 2014
+ },
+ {
+  "id": "W2082432933",
+  "doi": "10.1038/lsa.2014.99",
+  "title": "Coding metamaterials, digital metamaterials and programmable metamaterials",
+  "year": 2014
+ },
+ {
+  "id": "W2053521124",
+  "doi": "10.1109/twc.2014.011714.130846",
+  "title": "Spatially Sparse Precoding in Millimeter Wave MIMO Systems",
+  "year": 2014
+ },
+ {
+  "id": "W1971443733",
+  "doi": "10.1109/tcomm.2013.020413.110848",
+  "title": "Energy and Spectral Efficiency of Very Large Multiuser MIMO Systems",
+  "year": 2013
+ },
+ {
+  "id": "W2272804037",
+  "doi": "10.1109/jstsp.2016.2520912",
+  "title": "Hybrid Digital and Analog Beamforming Design for Large-Scale Antenna Arrays",
+  "year": 2016
+ },
+ {
+  "id": "W2161473225",
+  "doi": "10.1109/tvt.2003.819629",
+  "title": "Solution of the Multiuser Downlink Beamforming Problem With Individual SINR Constraints",
+  "year": 2004
+ },
+ {
+  "id": "W2041287972",
+  "doi": "10.1109/lwc.2014.2363831",
+  "title": "Low-Complexity Hybrid Precoding in Massive Multiuser MIMO Systems",
+  "year": 2014
+ },
+ {
+  "id": "W2126351339",
+  "doi": "10.1109/jsac.2006.879347",
+  "title": "An introduction to convex optimization for communications and signal processing",
+  "year": 2006
+ },
+ {
+  "id": "W2160593627",
+  "doi": "10.1109/map.2009.5162013",
+  "title": "Complete Link Budgets for Backscatter-Radio and RFID Systems",
+  "year": 2009
+ },
+ {
+  "id": "W2964129085",
+  "doi": "10.1109/mwc.2017.1600343",
+  "title": "An Overview of Sustainable Green 5G Networks",
+  "year": 2017
+ },
+ {
+  "id": "W3004201425",
+  "doi": "10.1109/lwc.2020.2969629",
+  "title": "Intelligent Reflecting Surface Assisted Secrecy Communication: Is Artificial Noise Helpful or Not?",
+  "year": 2020
+ },
+ {
+  "id": "W2996961035",
+  "doi": "10.1109/lwc.2019.2961656",
+  "title": "Weighted Sum Power Maximization for Intelligent Reflecting Surface Aided SWIPT",
+  "year": 2019
+ },
+ {
+  "id": "W2968810373",
+  "doi": "10.1109/access.2019.2935192",
+  "title": "Wireless Communications Through Reconfigurable Intelligent Surfaces",
+  "year": 2019
+ },
+ {
+  "id": "W3017034203",
+  "doi": "10.1109/jsac.2020.3007211",
+  "title": "Smart Radio Environments Empowered by Reconfigurable Intelligent Surfaces: How It Works, State of Research, and The Road Ahead",
+  "year": 2020
+ },
+ {
+  "id": "W2984937369",
+  "doi": "10.1109/twc.2020.3024887",
+  "title": "Wireless Communications With Reconfigurable Intelligent Surface: Path Loss Modeling and Experimental Measurement",
+  "year": 2020
+ },
+ {
+  "id": "W2963121727",
+  "doi": "10.1186/s13638-019-1438-9",
+  "title": "Smart radio environments empowered by reconfigurable AI meta-surfaces: an idea whose time has come",
+  "year": 2019
+ },
+ {
+  "id": "W3045086480",
+  "doi": "10.1109/access.2020.3010896",
+  "title": "6G and Beyond: The Future of Wireless Communications Systems",
+  "year": 2020
+ },
+ {
+  "id": "W2037866776",
+  "doi": "10.1049/iet-com.2010.0544",
+  "title": "Intelligent walls as autonomous parts of smart indoor environments",
+  "year": 2012
+ },
+ {
+  "id": "W2167282237",
+  "doi": "10.1109/tsp.2008.2008254",
+  "title": "Joint Beamforming and Power Control for Multiantenna Relay Broadcast Channel With QoS Constraints",
+  "year": 2008
+ }
+]

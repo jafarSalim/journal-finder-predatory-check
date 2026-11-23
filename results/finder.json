@@ -1,0 +1,1286 @@
+[
+ {
+  "id": "W2969424089",
+  "title": "Intelligent Reflecting Surface Enhanced Wireless Network via Joint Active and Passive Beamforming",
+  "year": 2019,
+  "query": "intelligent reflecting surface enhanced wireless network joint active",
+  "total": 27998,
+  "truth": "S63459445",
+  "truthName": "IEEE Transactions on Wireless Communications",
+  "selfRank": 2,
+  "kept": {
+   "rank": 49,
+   "past": 12
+  },
+  "ranks": {
+   "rank": 1,
+   "count": 1,
+   "past": 5,
+   "popularity": 1
+  },
+  "top5": [
+   {
+    "id": "S63459445",
+    "name": "IEEE Transactions on Wireless Communications",
+    "share": 0.216,
+    "papers": 9
+   },
+   {
+    "id": "S196647941",
+    "name": "IEEE Transactions on Communications",
+    "share": 0.141,
+    "papers": 6
+   },
+   {
+    "id": "S10936095",
+    "name": "IEEE Transactions on Vehicular Technology",
+    "share": 0.108,
+    "papers": 5
+   },
+   {
+    "id": "S68686220",
+    "name": "Proceedings of the IEEE",
+    "share": 0.105,
+    "papers": 4
+   },
+   {
+    "id": "S90422530",
+    "name": "IEEE Journal on Selected Areas in Communications",
+    "share": 0.082,
+    "papers": 4
+   }
+  ],
+  "listed": []
+ },
+ {
+  "id": "W2735938380",
+  "title": "Beyond Massive MIMO: The Potential of Data Transmission With Large Intelligent Surfaces",
+  "year": 2018,
+  "query": "beyond massive mimo potential data transmission intelligent surfaces",
+  "total": 7915,
+  "truth": "S168680287",
+  "truthName": "IEEE Transactions on Signal Processing",
+  "selfRank": 1,
+  "kept": {
+   "rank": 49,
+   "past": 0
+  },
+  "ranks": {
+   "rank": 10,
+   "count": 15,
+   "past": null,
+   "popularity": 4
+  },
+  "top5": [
+   {
+    "id": "S63459445",
+    "name": "IEEE Transactions on Wireless Communications",
+    "share": 0.202,
+    "papers": 9
+   },
+   {
+    "id": "S196647941",
+    "name": "IEEE Transactions on Communications",
+    "share": 0.166,
+    "papers": 5
+   },
+   {
+    "id": "S2485537415",
+    "name": "IEEE Access",
+    "share": 0.115,
+    "papers": 6
+   },
+   {
+    "id": "S2500830676",
+    "name": "IEEE Wireless Communications Letters",
+    "share": 0.108,
+    "papers": 3
+   },
+   {
+    "id": "S90422530",
+    "name": "IEEE Journal on Selected Areas in Communications",
+    "share": 0.105,
+    "papers": 4
+   }
+  ],
+  "listed": []
+ },
+ {
+  "id": "W2054692642",
+  "title": "What Will 5G Be?",
+  "year": 2014,
+  "query": "5g",
+  "total": 778899,
+  "truth": "S90422530",
+  "truthName": "IEEE Journal on Selected Areas in Communications",
+  "selfRank": 1,
+  "kept": {
+   "rank": 49,
+   "past": 8
+  },
+  "ranks": {
+   "rank": 7,
+   "count": 5,
+   "past": null,
+   "popularity": 6
+  },
+  "top5": [
+   {
+    "id": "S158797327",
+    "name": "IEEE Communications Magazine",
+    "share": 0.252,
+    "papers": 12
+   },
+   {
+    "id": "S2485537415",
+    "name": "IEEE Access",
+    "share": 0.178,
+    "papers": 4
+   },
+   {
+    "id": "S146764194",
+    "name": "IEEE Wireless Communications",
+    "share": 0.078,
+    "papers": 4
+   },
+   {
+    "id": "S10134376",
+    "name": "Sustainability",
+    "share": 0.056,
+    "papers": 1
+   },
+   {
+    "id": "S23688054",
+    "name": "IEEE Communications Surveys & Tutorials",
+    "share": 0.052,
+    "papers": 3
+   }
+  ],
+  "listed": []
+ },
+ {
+  "id": "W2990747873",
+  "title": "Towards Smart and Reconfigurable Environment: Intelligent Reflecting Surface Aided Wireless Network",
+  "year": 2019,
+  "query": "smart reconfigurable environment intelligent reflecting surface aided wireless",
+  "total": 8723,
+  "truth": "S158797327",
+  "truthName": "IEEE Communications Magazine",
+  "selfRank": 1,
+  "kept": {
+   "rank": 49,
+   "past": 4
+  },
+  "ranks": {
+   "rank": 5,
+   "count": 8,
+   "past": null,
+   "popularity": 7
+  },
+  "top5": [
+   {
+    "id": "S63459445",
+    "name": "IEEE Transactions on Wireless Communications",
+    "share": 0.226,
+    "papers": 7
+   },
+   {
+    "id": "S2485537415",
+    "name": "IEEE Access",
+    "share": 0.128,
+    "papers": 6
+   },
+   {
+    "id": "S146764194",
+    "name": "IEEE Wireless Communications",
+    "share": 0.11,
+    "papers": 6
+   },
+   {
+    "id": "S23688054",
+    "name": "IEEE Communications Surveys & Tutorials",
+    "share": 0.073,
+    "papers": 3
+   },
+   {
+    "id": "S158797327",
+    "name": "IEEE Communications Magazine",
+    "share": 0.059,
+    "papers": 2
+   }
+  ],
+  "listed": []
+ },
+ {
+  "id": "W2941655922",
+  "title": "Reconfigurable Intelligent Surfaces for Energy Efficiency in Wireless Communication",
+  "year": 2019,
+  "query": "reconfigurable intelligent surfaces energy efficiency wireless communication",
+  "total": 19299,
+  "truth": "S63459445",
+  "truthName": "IEEE Transactions on Wireless Communications",
+  "selfRank": 1,
+  "kept": {
+   "rank": 49,
+   "past": 2
+  },
+  "ranks": {
+   "rank": 1,
+   "count": 1,
+   "past": null,
+   "popularity": 1
+  },
+  "top5": [
+   {
+    "id": "S63459445",
+    "name": "IEEE Transactions on Wireless Communications",
+    "share": 0.149,
+    "papers": 6
+   },
+   {
+    "id": "S4210205812",
+    "name": "Applied Sciences",
+    "share": 0.1,
+    "papers": 1
+   },
+   {
+    "id": "S146764194",
+    "name": "IEEE Wireless Communications",
+    "share": 0.083,
+    "papers": 3
+   },
+   {
+    "id": "S196647941",
+    "name": "IEEE Transactions on Communications",
+    "share": 0.058,
+    "papers": 3
+   },
+   {
+    "id": "S2485537415",
+    "name": "IEEE Access",
+    "share": 0.057,
+    "papers": 2
+   }
+  ],
+  "listed": []
+ },
+ {
+  "id": "W2103972037",
+  "title": "Five disruptive technology directions for 5G",
+  "year": 2014,
+  "query": "disruptive technology directions 5g",
+  "total": 36724,
+  "truth": "S158797327",
+  "truthName": "IEEE Communications Magazine",
+  "selfRank": 1,
+  "kept": {
+   "rank": 49,
+   "past": 2
+  },
+  "ranks": {
+   "rank": null,
+   "count": null,
+   "past": null,
+   "popularity": 8
+  },
+  "top5": [
+   {
+    "id": "S2485537415",
+    "name": "IEEE Access",
+    "share": 0.18,
+    "papers": 8
+   },
+   {
+    "id": "S23688054",
+    "name": "IEEE Communications Surveys & Tutorials",
+    "share": 0.063,
+    "papers": 3
+   },
+   {
+    "id": "S30698027",
+    "name": "IEEE Transactions on Knowledge and Data Engineering",
+    "share": 0.061,
+    "papers": 1
+   },
+   {
+    "id": "S10134376",
+    "name": "Sustainability",
+    "share": 0.049,
+    "papers": 2
+   },
+   {
+    "id": "S4210202905",
+    "name": "Electronics",
+    "share": 0.049,
+    "papers": 2
+   }
+  ],
+  "listed": [
+   {
+    "name": "International Journal of Engineering Applied Sciences and Technology",
+    "list": "International Journal of Engineering Applied Science and Technology",
+    "how": "near-identical name"
+   }
+  ]
+ },
+ {
+  "id": "W2082432933",
+  "title": "Coding metamaterials, digital metamaterials and programmable metamaterials",
+  "year": 2014,
+  "query": "coding metamaterials digital programmable",
+  "total": 8275,
+  "truth": "S2498964232",
+  "truthName": "Light Science & Applications",
+  "selfRank": 1,
+  "kept": {
+   "rank": 49,
+   "past": 0
+  },
+  "ranks": {
+   "rank": 8,
+   "count": 4,
+   "past": null,
+   "popularity": null
+  },
+  "top5": [
+   {
+    "id": "S196734849",
+    "name": "Scientific Reports",
+    "share": 0.188,
+    "papers": 6
+   },
+   {
+    "id": "S108229257",
+    "name": "Advanced Optical Materials",
+    "share": 0.128,
+    "papers": 5
+   },
+   {
+    "id": "S64187185",
+    "name": "Nature Communications",
+    "share": 0.076,
+    "papers": 4
+   },
+   {
+    "id": "S4210212817",
+    "name": "Advanced Intelligent Systems",
+    "share": 0.058,
+    "papers": 1
+   },
+   {
+    "id": "S2734413303",
+    "name": "National Science Review",
+    "share": 0.048,
+    "papers": 2
+   }
+  ],
+  "listed": []
+ },
+ {
+  "id": "W2053521124",
+  "title": "Spatially Sparse Precoding in Millimeter Wave MIMO Systems",
+  "year": 2014,
+  "query": "spatially sparse precoding millimeter wave mimo systems",
+  "total": 5189,
+  "truth": "S63459445",
+  "truthName": "IEEE Transactions on Wireless Communications",
+  "selfRank": 1,
+  "kept": {
+   "rank": 49,
+   "past": 2
+  },
+  "ranks": {
+   "rank": 3,
+   "count": 2,
+   "past": null,
+   "popularity": 1
+  },
+  "top5": [
+   {
+    "id": "S196647941",
+    "name": "IEEE Transactions on Communications",
+    "share": 0.179,
+    "papers": 6
+   },
+   {
+    "id": "S42167783",
+    "name": "IEEE Journal of Selected Topics in Signal Processing",
+    "share": 0.162,
+    "papers": 4
+   },
+   {
+    "id": "S63459445",
+    "name": "IEEE Transactions on Wireless Communications",
+    "share": 0.11,
+    "papers": 5
+   },
+   {
+    "id": "S10936095",
+    "name": "IEEE Transactions on Vehicular Technology",
+    "share": 0.091,
+    "papers": 3
+   },
+   {
+    "id": "S168680287",
+    "name": "IEEE Transactions on Signal Processing",
+    "share": 0.084,
+    "papers": 4
+   }
+  ],
+  "listed": []
+ },
+ {
+  "id": "W1971443733",
+  "title": "Energy and Spectral Efficiency of Very Large Multiuser MIMO Systems",
+  "year": 2013,
+  "query": "energy spectral efficiency multiuser mimo systems",
+  "total": 14360,
+  "truth": "S196647941",
+  "truthName": "IEEE Transactions on Communications",
+  "selfRank": 1,
+  "kept": {
+   "rank": 49,
+   "past": 4
+  },
+  "ranks": {
+   "rank": 4,
+   "count": 2,
+   "past": null,
+   "popularity": 3
+  },
+  "top5": [
+   {
+    "id": "S10936095",
+    "name": "IEEE Transactions on Vehicular Technology",
+    "share": 0.159,
+    "papers": 6
+   },
+   {
+    "id": "S168680287",
+    "name": "IEEE Transactions on Signal Processing",
+    "share": 0.127,
+    "papers": 3
+   },
+   {
+    "id": "S4210206007",
+    "name": "International Journal of Computer Applications",
+    "share": 0.111,
+    "papers": 1
+   },
+   {
+    "id": "S196647941",
+    "name": "IEEE Transactions on Communications",
+    "share": 0.098,
+    "papers": 4
+   },
+   {
+    "id": "S147316732",
+    "name": "IEEE Communications Letters",
+    "share": 0.083,
+    "papers": 3
+   }
+  ],
+  "listed": [
+   {
+    "name": "International Journal of Computer Applications",
+    "list": "International Journal of Computer Applications",
+    "how": "exact name"
+   }
+  ]
+ },
+ {
+  "id": "W2272804037",
+  "title": "Hybrid Digital and Analog Beamforming Design for Large-Scale Antenna Arrays",
+  "year": 2016,
+  "query": "hybrid digital analog beamforming design large-scale antenna arrays",
+  "total": 7840,
+  "truth": "S42167783",
+  "truthName": "IEEE Journal of Selected Topics in Signal Processing",
+  "selfRank": 1,
+  "kept": {
+   "rank": 49,
+   "past": 12
+  },
+  "ranks": {
+   "rank": null,
+   "count": null,
+   "past": null,
+   "popularity": 14
+  },
+  "top5": [
+   {
+    "id": "S63459445",
+    "name": "IEEE Transactions on Wireless Communications",
+    "share": 0.228,
+    "papers": 8
+   },
+   {
+    "id": "S90422530",
+    "name": "IEEE Journal on Selected Areas in Communications",
+    "share": 0.207,
+    "papers": 4
+   },
+   {
+    "id": "S196647941",
+    "name": "IEEE Transactions on Communications",
+    "share": 0.119,
+    "papers": 5
+   },
+   {
+    "id": "S158797327",
+    "name": "IEEE Communications Magazine",
+    "share": 0.082,
+    "papers": 2
+   },
+   {
+    "id": "S168680287",
+    "name": "IEEE Transactions on Signal Processing",
+    "share": 0.073,
+    "papers": 3
+   }
+  ],
+  "listed": []
+ },
+ {
+  "id": "W2161473225",
+  "title": "Solution of the Multiuser Downlink Beamforming Problem With Individual SINR Constraints",
+  "year": 2004,
+  "query": "solution multiuser downlink beamforming individual sinr constraints",
+  "total": 3530,
+  "truth": "S10936095",
+  "truthName": "IEEE Transactions on Vehicular Technology",
+  "selfRank": 1,
+  "kept": {
+   "rank": 49,
+   "past": 0
+  },
+  "ranks": {
+   "rank": 7,
+   "count": 6,
+   "past": null,
+   "popularity": 4
+  },
+  "top5": [
+   {
+    "id": "S168680287",
+    "name": "IEEE Transactions on Signal Processing",
+    "share": 0.376,
+    "papers": 12
+   },
+   {
+    "id": "S63459445",
+    "name": "IEEE Transactions on Wireless Communications",
+    "share": 0.201,
+    "papers": 9
+   },
+   {
+    "id": "S196647941",
+    "name": "IEEE Transactions on Communications",
+    "share": 0.07,
+    "papers": 3
+   },
+   {
+    "id": "S2485537415",
+    "name": "IEEE Access",
+    "share": 0.068,
+    "papers": 3
+   },
+   {
+    "id": "S82675988",
+    "name": "EURASIP Journal on Wireless Communications and Networking",
+    "share": 0.044,
+    "papers": 1
+   }
+  ],
+  "listed": []
+ },
+ {
+  "id": "W2041287972",
+  "title": "Low-Complexity Hybrid Precoding in Massive Multiuser MIMO Systems",
+  "year": 2014,
+  "query": "low-complexity hybrid precoding massive multiuser mimo systems",
+  "total": 5894,
+  "truth": "S2500830676",
+  "truthName": "IEEE Wireless Communications Letters",
+  "selfRank": 1,
+  "kept": {
+   "rank": 49,
+   "past": 0
+  },
+  "ranks": {
+   "rank": 2,
+   "count": 13,
+   "past": null,
+   "popularity": 12
+  },
+  "top5": [
+   {
+    "id": "S63459445",
+    "name": "IEEE Transactions on Wireless Communications",
+    "share": 0.128,
+    "papers": 6
+   },
+   {
+    "id": "S2500830676",
+    "name": "IEEE Wireless Communications Letters",
+    "share": 0.105,
+    "papers": 1
+   },
+   {
+    "id": "S10936095",
+    "name": "IEEE Transactions on Vehicular Technology",
+    "share": 0.088,
+    "papers": 3
+   },
+   {
+    "id": "S196647941",
+    "name": "IEEE Transactions on Communications",
+    "share": 0.082,
+    "papers": 2
+   },
+   {
+    "id": "S168680287",
+    "name": "IEEE Transactions on Signal Processing",
+    "share": 0.077,
+    "papers": 3
+   }
+  ],
+  "listed": []
+ },
+ {
+  "id": "W2126351339",
+  "title": "An introduction to convex optimization for communications and signal processing",
+  "year": 2006,
+  "query": "introduction convex optimization communications signal processing",
+  "total": 44835,
+  "truth": "S90422530",
+  "truthName": "IEEE Journal on Selected Areas in Communications",
+  "selfRank": 1,
+  "kept": {
+   "rank": 49,
+   "past": 3
+  },
+  "ranks": {
+   "rank": null,
+   "count": null,
+   "past": null,
+   "popularity": 7
+  },
+  "top5": [
+   {
+    "id": "S168680287",
+    "name": "IEEE Transactions on Signal Processing",
+    "share": 0.174,
+    "papers": 5
+   },
+   {
+    "id": "S193920097",
+    "name": "Mathematical Programming",
+    "share": 0.135,
+    "papers": 2
+   },
+   {
+    "id": "S120977877",
+    "name": "IEEE Signal Processing Magazine",
+    "share": 0.085,
+    "papers": 3
+   },
+   {
+    "id": "S68686220",
+    "name": "Proceedings of the IEEE",
+    "share": 0.079,
+    "papers": 3
+   },
+   {
+    "id": "S42167783",
+    "name": "IEEE Journal of Selected Topics in Signal Processing",
+    "share": 0.075,
+    "papers": 3
+   }
+  ],
+  "listed": []
+ },
+ {
+  "id": "W2160593627",
+  "title": "Complete Link Budgets for Backscatter-Radio and RFID Systems",
+  "year": 2009,
+  "query": "complete link budgets backscatter-radio rfid systems",
+  "total": 729,
+  "truth": "S201045332",
+  "truthName": "IEEE Antennas and Propagation Magazine",
+  "selfRank": 1,
+  "kept": {
+   "rank": 49,
+   "past": 6
+  },
+  "ranks": {
+   "rank": 14,
+   "count": 7,
+   "past": null,
+   "popularity": null
+  },
+  "top5": [
+   {
+    "id": "S101949793",
+    "name": "Sensors",
+    "share": 0.166,
+    "papers": 5
+   },
+   {
+    "id": "S2485537415",
+    "name": "IEEE Access",
+    "share": 0.129,
+    "papers": 3
+   },
+   {
+    "id": "S2738964782",
+    "name": "Sakarya University Journal of Science",
+    "share": 0.082,
+    "papers": 1
+   },
+   {
+    "id": "S63459445",
+    "name": "IEEE Transactions on Wireless Communications",
+    "share": 0.076,
+    "papers": 2
+   },
+   {
+    "id": "S82675988",
+    "name": "EURASIP Journal on Wireless Communications and Networking",
+    "share": 0.063,
+    "papers": 1
+   }
+  ],
+  "listed": []
+ },
+ {
+  "id": "W2964129085",
+  "title": "An Overview of Sustainable Green 5G Networks",
+  "year": 2017,
+  "query": "overview sustainable green 5g networks",
+  "total": 33077,
+  "truth": "S146764194",
+  "truthName": "IEEE Wireless Communications",
+  "selfRank": 1,
+  "kept": {
+   "rank": 49,
+   "past": 11
+  },
+  "ranks": {
+   "rank": null,
+   "count": null,
+   "past": null,
+   "popularity": 6
+  },
+  "top5": [
+   {
+    "id": "S2485537415",
+    "name": "IEEE Access",
+    "share": 0.224,
+    "papers": 10
+   },
+   {
+    "id": "S23688054",
+    "name": "IEEE Communications Surveys & Tutorials",
+    "share": 0.139,
+    "papers": 3
+   },
+   {
+    "id": "S101949793",
+    "name": "Sensors",
+    "share": 0.07,
+    "papers": 4
+   },
+   {
+    "id": "S90422530",
+    "name": "IEEE Journal on Selected Areas in Communications",
+    "share": 0.055,
+    "papers": 2
+   },
+   {
+    "id": "S158797327",
+    "name": "IEEE Communications Magazine",
+    "share": 0.051,
+    "papers": 2
+   }
+  ],
+  "listed": []
+ },
+ {
+  "id": "W3004201425",
+  "title": "Intelligent Reflecting Surface Assisted Secrecy Communication: Is Artificial Noise Helpful or Not?",
+  "year": 2020,
+  "query": "intelligent reflecting surface assisted secrecy communication artificial noise",
+  "total": 2881,
+  "truth": "S2500830676",
+  "truthName": "IEEE Wireless Communications Letters",
+  "selfRank": 1,
+  "kept": {
+   "rank": 49,
+   "past": 21
+  },
+  "ranks": {
+   "rank": 5,
+   "count": 6,
+   "past": 5,
+   "popularity": 12
+  },
+  "top5": [
+   {
+    "id": "S63459445",
+    "name": "IEEE Transactions on Wireless Communications",
+    "share": 0.23,
+    "papers": 11
+   },
+   {
+    "id": "S196647941",
+    "name": "IEEE Transactions on Communications",
+    "share": 0.218,
+    "papers": 6
+   },
+   {
+    "id": "S10936095",
+    "name": "IEEE Transactions on Vehicular Technology",
+    "share": 0.134,
+    "papers": 5
+   },
+   {
+    "id": "S147316732",
+    "name": "IEEE Communications Letters",
+    "share": 0.072,
+    "papers": 3
+   },
+   {
+    "id": "S2500830676",
+    "name": "IEEE Wireless Communications Letters",
+    "share": 0.052,
+    "papers": 2
+   }
+  ],
+  "listed": []
+ },
+ {
+  "id": "W2996961035",
+  "title": "Weighted Sum Power Maximization for Intelligent Reflecting Surface Aided SWIPT",
+  "year": 2019,
+  "query": "weighted sum power maximization intelligent reflecting surface aided",
+  "total": 12085,
+  "truth": "S2500830676",
+  "truthName": "IEEE Wireless Communications Letters",
+  "selfRank": 1,
+  "kept": {
+   "rank": 49,
+   "past": 2
+  },
+  "ranks": {
+   "rank": 2,
+   "count": 2,
+   "past": null,
+   "popularity": 14
+  },
+  "top5": [
+   {
+    "id": "S63459445",
+    "name": "IEEE Transactions on Wireless Communications",
+    "share": 0.313,
+    "papers": 10
+   },
+   {
+    "id": "S2500830676",
+    "name": "IEEE Wireless Communications Letters",
+    "share": 0.2,
+    "papers": 7
+   },
+   {
+    "id": "S90422530",
+    "name": "IEEE Journal on Selected Areas in Communications",
+    "share": 0.131,
+    "papers": 4
+   },
+   {
+    "id": "S196647941",
+    "name": "IEEE Transactions on Communications",
+    "share": 0.113,
+    "papers": 4
+   },
+   {
+    "id": "S168680287",
+    "name": "IEEE Transactions on Signal Processing",
+    "share": 0.05,
+    "papers": 2
+   }
+  ],
+  "listed": []
+ },
+ {
+  "id": "W2968810373",
+  "title": "Wireless Communications Through Reconfigurable Intelligent Surfaces",
+  "year": 2019,
+  "query": "wireless communications reconfigurable intelligent surfaces",
+  "total": 25369,
+  "truth": "S2485537415",
+  "truthName": "IEEE Access",
+  "selfRank": 1,
+  "kept": {
+   "rank": 49,
+   "past": 0
+  },
+  "ranks": {
+   "rank": 4,
+   "count": 2,
+   "past": null,
+   "popularity": 2
+  },
+  "top5": [
+   {
+    "id": "S63459445",
+    "name": "IEEE Transactions on Wireless Communications",
+    "share": 0.159,
+    "papers": 3
+   },
+   {
+    "id": "S2484188435",
+    "name": "IEEE Transactions on Cognitive Communications and Networking",
+    "share": 0.112,
+    "papers": 1
+   },
+   {
+    "id": "S196647941",
+    "name": "IEEE Transactions on Communications",
+    "share": 0.104,
+    "papers": 4
+   },
+   {
+    "id": "S2485537415",
+    "name": "IEEE Access",
+    "share": 0.085,
+    "papers": 3
+   },
+   {
+    "id": "S4210206253",
+    "name": "Intelligent and Converged Networks",
+    "share": 0.082,
+    "papers": 3
+   }
+  ],
+  "listed": []
+ },
+ {
+  "id": "W3017034203",
+  "title": "Smart Radio Environments Empowered by Reconfigurable Intelligent Surfaces: How It Works, State of Research, and The Road Ahead",
+  "year": 2020,
+  "query": "smart radio environments empowered reconfigurable intelligent surfaces works",
+  "total": 4491,
+  "truth": "S90422530",
+  "truthName": "IEEE Journal on Selected Areas in Communications",
+  "selfRank": 1,
+  "kept": {
+   "rank": 49,
+   "past": 12
+  },
+  "ranks": {
+   "rank": 11,
+   "count": 10,
+   "past": 7,
+   "popularity": 6
+  },
+  "top5": [
+   {
+    "id": "S63459445",
+    "name": "IEEE Transactions on Wireless Communications",
+    "share": 0.131,
+    "papers": 4
+   },
+   {
+    "id": "S146764194",
+    "name": "IEEE Wireless Communications",
+    "share": 0.1,
+    "papers": 3
+   },
+   {
+    "id": "S2485537415",
+    "name": "IEEE Access",
+    "share": 0.094,
+    "papers": 5
+   },
+   {
+    "id": "S4210202420",
+    "name": "IEEE Open Journal of the Communications Society",
+    "share": 0.08,
+    "papers": 4
+   },
+   {
+    "id": "S158797327",
+    "name": "IEEE Communications Magazine",
+    "share": 0.078,
+    "papers": 4
+   }
+  ],
+  "listed": []
+ },
+ {
+  "id": "W2984937369",
+  "title": "Wireless Communications With Reconfigurable Intelligent Surface: Path Loss Modeling and Experimental Measurement",
+  "year": 2020,
+  "query": "wireless communications reconfigurable intelligent surface path loss modeling",
+  "total": 14606,
+  "truth": "S63459445",
+  "truthName": "IEEE Transactions on Wireless Communications",
+  "selfRank": 1,
+  "kept": {
+   "rank": 49,
+   "past": 11
+  },
+  "ranks": {
+   "rank": 2,
+   "count": 3,
+   "past": 3,
+   "popularity": 1
+  },
+  "top5": [
+   {
+    "id": "S2485537415",
+    "name": "IEEE Access",
+    "share": 0.197,
+    "papers": 5
+   },
+   {
+    "id": "S63459445",
+    "name": "IEEE Transactions on Wireless Communications",
+    "share": 0.118,
+    "papers": 5
+   },
+   {
+    "id": "S196647941",
+    "name": "IEEE Transactions on Communications",
+    "share": 0.104,
+    "papers": 5
+   },
+   {
+    "id": "S146764194",
+    "name": "IEEE Wireless Communications",
+    "share": 0.073,
+    "papers": 3
+   },
+   {
+    "id": "S7407076148",
+    "name": "IRAQI JOURNAL OF SCIENTIFIC AND INDUSTRIAL RESEARCH",
+    "share": 0.057,
+    "papers": 1
+   }
+  ],
+  "listed": []
+ },
+ {
+  "id": "W2963121727",
+  "title": "Smart radio environments empowered by reconfigurable AI meta-surfaces: an idea whose time has come",
+  "year": 2019,
+  "query": "smart radio environments empowered reconfigurable meta-surfaces idea time",
+  "total": 1802,
+  "truth": "S82675988",
+  "truthName": "EURASIP Journal on Wireless Communications and Networking",
+  "selfRank": 1,
+  "kept": {
+   "rank": 49,
+   "past": 2
+  },
+  "ranks": {
+   "rank": 9,
+   "count": 7,
+   "past": null,
+   "popularity": 24
+  },
+  "top5": [
+   {
+    "id": "S63459445",
+    "name": "IEEE Transactions on Wireless Communications",
+    "share": 0.122,
+    "papers": 5
+   },
+   {
+    "id": "S90422530",
+    "name": "IEEE Journal on Selected Areas in Communications",
+    "share": 0.106,
+    "papers": 2
+   },
+   {
+    "id": "S4210202420",
+    "name": "IEEE Open Journal of the Communications Society",
+    "share": 0.098,
+    "papers": 5
+   },
+   {
+    "id": "S146764194",
+    "name": "IEEE Wireless Communications",
+    "share": 0.091,
+    "papers": 3
+   },
+   {
+    "id": "S68686220",
+    "name": "Proceedings of the IEEE",
+    "share": 0.09,
+    "papers": 3
+   }
+  ],
+  "listed": []
+ },
+ {
+  "id": "W3045086480",
+  "title": "6G and Beyond: The Future of Wireless Communications Systems",
+  "year": 2020,
+  "query": "6g beyond future wireless communications systems",
+  "total": 34116,
+  "truth": "S2485537415",
+  "truthName": "IEEE Access",
+  "selfRank": 1,
+  "kept": {
+   "rank": 49,
+   "past": 12
+  },
+  "ranks": {
+   "rank": 1,
+   "count": 1,
+   "past": 1,
+   "popularity": 2
+  },
+  "top5": [
+   {
+    "id": "S2485537415",
+    "name": "IEEE Access",
+    "share": 0.237,
+    "papers": 7
+   },
+   {
+    "id": "S146764194",
+    "name": "IEEE Wireless Communications",
+    "share": 0.101,
+    "papers": 4
+   },
+   {
+    "id": "S23688054",
+    "name": "IEEE Communications Surveys & Tutorials",
+    "share": 0.082,
+    "papers": 4
+   },
+   {
+    "id": "S68686220",
+    "name": "Proceedings of the IEEE",
+    "share": 0.069,
+    "papers": 3
+   },
+   {
+    "id": "S186584794",
+    "name": "IEEE Network",
+    "share": 0.061,
+    "papers": 1
+   }
+  ],
+  "listed": []
+ },
+ {
+  "id": "W2037866776",
+  "title": "Intelligent walls as autonomous parts of smart indoor environments",
+  "year": 2012,
+  "query": "intelligent walls autonomous parts smart indoor environments",
+  "total": 6674,
+  "truth": "S85427048",
+  "truthName": "IET Communications",
+  "selfRank": 1,
+  "kept": {
+   "rank": 49,
+   "past": 5
+  },
+  "ranks": {
+   "rank": null,
+   "count": null,
+   "past": null,
+   "popularity": null
+  },
+  "top5": [
+   {
+    "id": "S2734413303",
+    "name": "National Science Review",
+    "share": 0.101,
+    "papers": 1
+   },
+   {
+    "id": "S101949793",
+    "name": "Sensors",
+    "share": 0.075,
+    "papers": 4
+   },
+   {
+    "id": "S2485537415",
+    "name": "IEEE Access",
+    "share": 0.069,
+    "papers": 2
+   },
+   {
+    "id": "S4210232487",
+    "name": "Robotics",
+    "share": 0.064,
+    "papers": 1
+   },
+   {
+    "id": "S90422530",
+    "name": "IEEE Journal on Selected Areas in Communications",
+    "share": 0.051,
+    "papers": 1
+   }
+  ],
+  "listed": []
+ },
+ {
+  "id": "W2167282237",
+  "title": "Joint Beamforming and Power Control for Multiantenna Relay Broadcast Channel With QoS Constraints",
+  "year": 2008,
+  "query": "joint beamforming power control multiantenna relay broadcast channel",
+  "total": 1193,
+  "truth": "S168680287",
+  "truthName": "IEEE Transactions on Signal Processing",
+  "selfRank": 1,
+  "kept": {
+   "rank": 49,
+   "past": 0
+  },
+  "ranks": {
+   "rank": 2,
+   "count": 2,
+   "past": null,
+   "popularity": 4
+  },
+  "top5": [
+   {
+    "id": "S10936095",
+    "name": "IEEE Transactions on Vehicular Technology",
+    "share": 0.243,
+    "papers": 7
+   },
+   {
+    "id": "S168680287",
+    "name": "IEEE Transactions on Signal Processing",
+    "share": 0.188,
+    "papers": 6
+   },
+   {
+    "id": "S63459445",
+    "name": "IEEE Transactions on Wireless Communications",
+    "share": 0.106,
+    "papers": 5
+   },
+   {
+    "id": "S90422530",
+    "name": "IEEE Journal on Selected Areas in Communications",
+    "share": 0.046,
+    "papers": 2
+   },
+   {
+    "id": "S2480266640",
+    "name": "IEEE Internet of Things Journal",
+    "share": 0.045,
+    "papers": 2
+   }
+  ],
+  "listed": []
+ }
+]

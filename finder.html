@@ -1,0 +1,20 @@
+<!doctype html>
+<html><head><meta charset="utf-8"><title>Journal Finder</title><link rel="stylesheet" href="src/ui.css"><link rel="stylesheet" href="src/finder.css"></head>
+<body>
+<header class="top"><img class="logo" src="icons/icon128.png" alt=""><h1><span class="a">Journal</span> Finder <span class="muted" style="font-weight:400;font-size:15px">· where do papers like yours get published?</span></h1>
+ <nav><a class="on" href="finder.html">Finder</a><a href="check.html">Check a journal</a></nav></header>
+<main>
+ <section class="card form">
+  <div><label class="f" for="title">Title</label><input class="t" id="title" placeholder="Your paper's working title"></div>
+  <div><label class="f" for="abs">Abstract</label><textarea class="t" id="abs" placeholder="Paste the abstract (or any paragraph that says what the paper is about)"></textarea></div>
+  <div class="row"><button class="go" id="go">Find journals</button><span class="status" id="status"></span></div>
+  <div class="q" id="q"></div>
+ </section>
+ <section id="out"></section>
+ <p class="foot muted">Ranking: the 50 OpenAlex papers most similar to your text vote for the journal they appeared in (closer papers count more).
+ Profiles from <a href="https://openalex.org" target="_blank" rel="noopener">OpenAlex</a>; list check against the bundled
+ <a href="https://github.com/stop-predatory-journals/stop-predatory-journals.github.io" target="_blank" rel="noopener">Stop Predatory Journals</a> snapshot.
+ A journal that is not on a list is not automatically safe — open its report with <b>Check</b>.</p>
+</main>
+<script type="module" src="src/finder-ui.js"></script>
+</body></html>

@@ -1,0 +1,32 @@
+{
+ "url": "https://api.openalex.org/sources/S2764698983",
+ "recorded": "2026-11-23",
+ "body": {
+  "id": "https://openalex.org/S2764698983",
+  "display_name": "Journal of Communication and Information Systems",
+  "issn_l": "1980-6604",
+  "issn": [
+   "1980-6604",
+   "1980-6612"
+  ],
+  "type": "journal",
+  "host_organization_name": "Sociedad Brasileira de Telecomunicacoes",
+  "homepage_url": "http://iecom.dee.ufcg.edu.br/~jcis",
+  "works_count": 562,
+  "cited_by_count": 2431,
+  "is_oa": true,
+  "is_in_doaj": false,
+  "apc_usd": null,
+  "country_code": "BR",
+  "summary_stats": {
+   "h_index": 20.0,
+   "i10_index": 52.0,
+   "2yr_mean_citedness": 0.95
+  },
+  "counts_by_year": [
+   {
+    "year": 1986
+   }
+  ]
+ }
+}

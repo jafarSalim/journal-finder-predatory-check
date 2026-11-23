@@ -1,0 +1,601 @@
+{
+ "url": "https://api.openalex.org/works?search=complete%20link%20budgets%20backscatter-radio%20rfid%20systems&per_page=50&select=id,display_name,publication_year,primary_location",
+ "recorded": "2026-11-23",
+ "body": {
+  "meta": {
+   "count": 729,
+   "per_page": 50
+  },
+  "results": [
+   {
+    "id": "https://openalex.org/W2160593627",
+    "display_name": null,
+    "publication_year": 2009,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S201045332",
+      "display_name": "IEEE Antennas and Propagation Magazine",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2982697940",
+    "display_name": null,
+    "publication_year": 2019,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4210195247",
+      "display_name": "IEEE Wireless Communications and Networking Conference",
+      "type": "conference"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2724730618",
+    "display_name": null,
+    "publication_year": 2007,
+    "primary_location": {
+     "source": null
+    }
+   },
+   {
+    "id": "https://openalex.org/W2896886843",
+    "display_name": null,
+    "publication_year": 2019,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S2738964782",
+      "display_name": "Sakarya University Journal of Science",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W4312768811",
+    "display_name": null,
+    "publication_year": 2022,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S2485537415",
+      "display_name": "IEEE Access",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W1989734517",
+    "display_name": null,
+    "publication_year": 2012,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S82675988",
+      "display_name": "EURASIP Journal on Wireless Communications and Networking",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W4387212661",
+    "display_name": null,
+    "publication_year": 2023,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4363608994",
+      "display_name": "ACM Annual International Conference on Mobile Computing and Networking (MobiCom)",
+      "type": "conference"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2261191523",
+    "display_name": null,
+    "publication_year": 2014,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4377196297",
+      "display_name": "cIRcle (University of British Columbia)",
+      "type": "repository"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2526922455",
+    "display_name": null,
+    "publication_year": 2013,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4306401957",
+      "display_name": "CU Scholar (University of Colorado Boulder)",
+      "type": "repository"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W4283209157",
+    "display_name": null,
+    "publication_year": 2022,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S7407087743",
+      "display_name": "IEEE Conference on Computer Communications (INFOCOM)",
+      "type": "conference"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W1555077023",
+    "display_name": null,
+    "publication_year": 2013,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4306402512",
+      "display_name": "HAL",
+      "type": "repository"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2586118468",
+    "display_name": null,
+    "publication_year": 2016,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4363605011",
+      "display_name": "IEEE Globecom Workshops (GC Wkshps)",
+      "type": "conference"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W1857173409",
+    "display_name": null,
+    "publication_year": 2015,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S63459445",
+      "display_name": "IEEE Transactions on Wireless Communications",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2143075308",
+    "display_name": null,
+    "publication_year": 2009,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4210208108",
+      "display_name": "Electromagnetic waves",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2345877947",
+    "display_name": null,
+    "publication_year": 2016,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4210171762",
+      "display_name": "EURASIP Journal on Embedded Systems",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2587624090",
+    "display_name": null,
+    "publication_year": 2016,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4377196440",
+      "display_name": "USF Scholarship Repository (University of San Francisco)",
+      "type": "repository"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W4290729577",
+    "display_name": null,
+    "publication_year": 2022,
+    "primary_location": {
+     "source": null
+    }
+   },
+   {
+    "id": "https://openalex.org/W4413074521",
+    "display_name": null,
+    "publication_year": 2025,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4210234470",
+      "display_name": "IEEE Journal of Radio Frequency Identification",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2775135700",
+    "display_name": null,
+    "publication_year": 2018,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S23688054",
+      "display_name": "IEEE Communications Surveys & Tutorials",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W560703638",
+    "display_name": null,
+    "publication_year": 2015,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4306402142",
+      "display_name": "DiVA (University of Gävle)",
+      "type": "repository"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W4250245397",
+    "display_name": null,
+    "publication_year": 2007,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4210174392",
+      "display_name": "OECD digital economy papers",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W1546414811",
+    "display_name": null,
+    "publication_year": 2015,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S101949793",
+      "display_name": "Sensors",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W7137629417",
+    "display_name": null,
+    "publication_year": null,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4306400490",
+      "display_name": "Summit (Simon Fraser University)",
+      "type": "repository"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W1030479599",
+    "display_name": null,
+    "publication_year": 2010,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4306400928",
+      "display_name": "Theseus (Ammattikorkeakoulujen)",
+      "type": "repository"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W3118676802",
+    "display_name": null,
+    "publication_year": 2021,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4210184428",
+      "display_name": "IEEE Journal of Microwaves",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W7223023945",
+    "display_name": null,
+    "publication_year": 2026,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4210231468",
+      "display_name": "Jurnal Teknik Elektro dan Komputer TRIAC",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W1962709318",
+    "display_name": null,
+    "publication_year": 2012,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4306401473",
+      "display_name": "Brunel University Research Archive (BURA) (Brunel University London)",
+      "type": "repository"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2581602959",
+    "display_name": null,
+    "publication_year": 2017,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S101949793",
+      "display_name": "Sensors",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2885235845",
+    "display_name": null,
+    "publication_year": 2018,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S101949793",
+      "display_name": "Sensors",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W3203854038",
+    "display_name": null,
+    "publication_year": 2021,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S235346",
+      "display_name": "Wireless Communications and Mobile Computing",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2099461393",
+    "display_name": null,
+    "publication_year": 2013,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S7407086014",
+      "display_name": "ACM SIGCOMM Conference (SIGCOMM)",
+      "type": "conference"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2003958949",
+    "display_name": null,
+    "publication_year": 2012,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S201045332",
+      "display_name": "IEEE Antennas and Propagation Magazine",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2898307917",
+    "display_name": null,
+    "publication_year": 2018,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S101949793",
+      "display_name": "Sensors",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2034796370",
+    "display_name": null,
+    "publication_year": 2014,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S63459445",
+      "display_name": "IEEE Transactions on Wireless Communications",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W4361267464",
+    "display_name": null,
+    "publication_year": 2016,
+    "primary_location": {
+     "source": null
+    }
+   },
+   {
+    "id": "https://openalex.org/W639662855",
+    "display_name": null,
+    "publication_year": 2013,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4377196262",
+      "display_name": "UPCommons institutional repository (Universitat Politècnica de Catalunya)",
+      "type": "repository"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W204337160",
+    "display_name": null,
+    "publication_year": 2010,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4306400906",
+      "display_name": "Research Repository (Delft University of Technology)",
+      "type": "repository"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W1706216394",
+    "display_name": null,
+    "publication_year": 2007,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S7407055372",
+      "display_name": "media/rep/",
+      "type": "repository"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W4239269043",
+    "display_name": null,
+    "publication_year": 2013,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4306501723",
+      "display_name": "Anais de XXXV Simpósio Brasileiro de Telecomunicações e Processamento de Sinais",
+      "type": "conference"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W4288058082",
+    "display_name": null,
+    "publication_year": 2022,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S96783963",
+      "display_name": "Journal of Sensors",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2551373187",
+    "display_name": null,
+    "publication_year": 2012,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4306400902",
+      "display_name": "uO Research (University of Ottawa)",
+      "type": "repository"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2299762864",
+    "display_name": null,
+    "publication_year": 2015,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4306400430",
+      "display_name": "Scholarship at UWindsor (University of Windsor)",
+      "type": "repository"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2127186337",
+    "display_name": null,
+    "publication_year": 2007,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S189798733",
+      "display_name": "IEEE Antennas and Wireless Propagation Letters",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W4409076663",
+    "display_name": null,
+    "publication_year": 2025,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S69141925",
+      "display_name": "IEEE Transactions on Mobile Computing",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W1583852042",
+    "display_name": null,
+    "publication_year": 2011,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4306463447",
+      "display_name": "InTech eBooks",
+      "type": "ebook platform"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W4377079826",
+    "display_name": null,
+    "publication_year": 2023,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S196647941",
+      "display_name": "IEEE Transactions on Communications",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W3107556423",
+    "display_name": null,
+    "publication_year": 2020,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S2485537415",
+      "display_name": "IEEE Access",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W4389633810",
+    "display_name": null,
+    "publication_year": 2023,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S2485537415",
+      "display_name": "IEEE Access",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W3157966970",
+    "display_name": null,
+    "publication_year": 2021,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S101949793",
+      "display_name": "Sensors",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2990722173",
+    "display_name": null,
+    "publication_year": 2020,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S10936095",
+      "display_name": "IEEE Transactions on Vehicular Technology",
+      "type": "journal"
+     }
+    }
+   }
+  ],
+  "query_of": "W2160593627"
+ }
+}

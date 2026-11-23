@@ -1,0 +1,609 @@
+{
+ "url": "https://api.openalex.org/works?search=introduction%20convex%20optimization%20communications%20signal%20processing&per_page=50&select=id,display_name,publication_year,primary_location",
+ "recorded": "2026-11-23",
+ "body": {
+  "meta": {
+   "count": 44835,
+   "per_page": 50
+  },
+  "results": [
+   {
+    "id": "https://openalex.org/W2126351339",
+    "display_name": null,
+    "publication_year": 2006,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S90422530",
+      "display_name": "IEEE Journal on Selected Areas in Communications",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2082037093",
+    "display_name": null,
+    "publication_year": 2002,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S193920097",
+      "display_name": "Mathematical Programming",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W4388104002",
+    "display_name": null,
+    "publication_year": 2023,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S168680287",
+      "display_name": "IEEE Transactions on Signal Processing",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W3046384441",
+    "display_name": null,
+    "publication_year": 2020,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4306402402",
+      "display_name": "CaltechTHESIS (California Institute of Technology)",
+      "type": "repository"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W1973754217",
+    "display_name": null,
+    "publication_year": 2009,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S928796702",
+      "display_name": "SIAM Journal on Optimization",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2066332749",
+    "display_name": null,
+    "publication_year": 2010,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S52430896",
+      "display_name": "Journal of Optimization Theory and Applications",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2134130436",
+    "display_name": null,
+    "publication_year": 2011,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4306463997",
+      "display_name": "The MIT Press eBooks",
+      "type": "ebook platform"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2784546630",
+    "display_name": null,
+    "publication_year": 2018,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4406923047",
+      "display_name": "theses.fr (ABES)",
+      "type": "repository"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W3194281015",
+    "display_name": null,
+    "publication_year": 2021,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S68686220",
+      "display_name": "Proceedings of the IEEE",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W4394862890",
+    "display_name": null,
+    "publication_year": 2024,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S120977877",
+      "display_name": "IEEE Signal Processing Magazine",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2784709112",
+    "display_name": null,
+    "publication_year": 2019,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S168680287",
+      "display_name": "IEEE Transactions on Signal Processing",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2772283936",
+    "display_name": null,
+    "publication_year": 2017,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4210188176",
+      "display_name": "Foundations and Trends® in Machine Learning",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W3162862084",
+    "display_name": null,
+    "publication_year": 2021,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S2485537415",
+      "display_name": "IEEE Access",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W1979289676",
+    "display_name": null,
+    "publication_year": 2015,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S42167783",
+      "display_name": "IEEE Journal of Selected Topics in Signal Processing",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W614252693",
+    "display_name": null,
+    "publication_year": 2007,
+    "primary_location": {
+     "source": null
+    }
+   },
+   {
+    "id": "https://openalex.org/W4365461416",
+    "display_name": null,
+    "publication_year": 2023,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S120977877",
+      "display_name": "IEEE Signal Processing Magazine",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W1645108560",
+    "display_name": null,
+    "publication_year": 2001,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4377196346",
+      "display_name": "publish.UP (University of Potsdam)",
+      "type": "repository"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2114595593",
+    "display_name": null,
+    "publication_year": 2012,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S168680287",
+      "display_name": "IEEE Transactions on Signal Processing",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W3119519926",
+    "display_name": null,
+    "publication_year": 2021,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4210171502",
+      "display_name": "EURO Journal on Computational Optimization",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W1591179352",
+    "display_name": null,
+    "publication_year": 1999,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4306462921",
+      "display_name": "Birkhäuser Boston eBooks",
+      "type": "ebook platform"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W4394863006",
+    "display_name": null,
+    "publication_year": 2024,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S54761077",
+      "display_name": "Annual Reviews in Control",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W1742114735",
+    "display_name": null,
+    "publication_year": 2015,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S997959834",
+      "display_name": "Electronic Journal of Statistics",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W3135454004",
+    "display_name": null,
+    "publication_year": 2021,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4210187594",
+      "display_name": "Journal of Physics Conference Series",
+      "type": "conference"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W3158020187",
+    "display_name": null,
+    "publication_year": 2021,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4210195221",
+      "display_name": "Frontiers in Signal Processing",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2527344009",
+    "display_name": null,
+    "publication_year": 2017,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4502562",
+      "display_name": "IEEE Transactions on Information Theory",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2970545119",
+    "display_name": null,
+    "publication_year": 2019,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4363606243",
+      "display_name": "neural information processing systems",
+      "type": "conference"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2284734147",
+    "display_name": null,
+    "publication_year": 2014,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4306401358",
+      "display_name": "Illinois Digital Environment for Access to Learning and Scholarship (University of Illinois at Urbana-Champaign)",
+      "type": "repository"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W7132968647",
+    "display_name": null,
+    "publication_year": 2024,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4306400261",
+      "display_name": "TSpace (University of Toronto)",
+      "type": "repository"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2282627756",
+    "display_name": null,
+    "publication_year": 2011,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4306400425",
+      "display_name": "DSpace@MIT (Massachusetts Institute of Technology)",
+      "type": "repository"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2092507976",
+    "display_name": null,
+    "publication_year": 2013,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S42167783",
+      "display_name": "IEEE Journal of Selected Topics in Signal Processing",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W7213544259",
+    "display_name": null,
+    "publication_year": 2026,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S175310385",
+      "display_name": "International Journal of Communication Systems",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W3033534062",
+    "display_name": null,
+    "publication_year": 2021,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S2484288132",
+      "display_name": "IEEE/CAA Journal of Automatica Sinica",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2171978417",
+    "display_name": null,
+    "publication_year": 2013,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S120977877",
+      "display_name": "IEEE Signal Processing Magazine",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W1774344329",
+    "display_name": null,
+    "publication_year": 2015,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S42167783",
+      "display_name": "IEEE Journal of Selected Topics in Signal Processing",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W3210774824",
+    "display_name": null,
+    "publication_year": 2022,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4502562",
+      "display_name": "IEEE Transactions on Information Theory",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2888486044",
+    "display_name": null,
+    "publication_year": 2020,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S68686220",
+      "display_name": "Proceedings of the IEEE",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2963254198",
+    "display_name": null,
+    "publication_year": 2017,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S193920097",
+      "display_name": "Mathematical Programming",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W3113216837",
+    "display_name": null,
+    "publication_year": 2022,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4210186983",
+      "display_name": "Springer optimization and its applications",
+      "type": "book series"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W4382323303",
+    "display_name": null,
+    "publication_year": 2026,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S168680287",
+      "display_name": "IEEE Transactions on Signal Processing",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2898486409",
+    "display_name": null,
+    "publication_year": 2018,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S10936095",
+      "display_name": "IEEE Transactions on Vehicular Technology",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W3166958905",
+    "display_name": null,
+    "publication_year": 2021,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4306400194",
+      "display_name": "arXiv (Cornell University)",
+      "type": "repository"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2962963952",
+    "display_name": null,
+    "publication_year": 2015,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4210221977",
+      "display_name": "IEEE Conference on Decision and Control (CDC)",
+      "type": "conference"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W3035326699",
+    "display_name": null,
+    "publication_year": 2020,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S68686220",
+      "display_name": "Proceedings of the IEEE",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W4322715975",
+    "display_name": null,
+    "publication_year": 2023,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4393919742",
+      "display_name": "Transactions on machine learning research",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2080467172",
+    "display_name": null,
+    "publication_year": 2014,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S168680287",
+      "display_name": "IEEE Transactions on Signal Processing",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2999556202",
+    "display_name": null,
+    "publication_year": 2020,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S62238642",
+      "display_name": "IEEE/ACM Transactions on Networking",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2556373857",
+    "display_name": null,
+    "publication_year": 2017,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S196647941",
+      "display_name": "IEEE Transactions on Communications",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2606904667",
+    "display_name": null,
+    "publication_year": 2017,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S928796702",
+      "display_name": "SIAM Journal on Optimization",
+      "type": "journal"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W2798019336",
+    "display_name": null,
+    "publication_year": 2018,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S4306400194",
+      "display_name": "arXiv (Cornell University)",
+      "type": "repository"
+     }
+    }
+   },
+   {
+    "id": "https://openalex.org/W3169342262",
+    "display_name": null,
+    "publication_year": 2020,
+    "primary_location": {
+     "source": {
+      "id": "https://openalex.org/S7407153562",
+      "display_name": "NVA (Nasjonalt vitenarkiv)",
+      "type": "repository"
+     }
+    }
+   }
+  ],
+  "query_of": "W2126351339"
+ }
+}

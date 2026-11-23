@@ -1,0 +1,123 @@
+{
+ "finder": {
+  "papers": 24,
+  "recorded": 24,
+  "methods": {
+   "rank-weighted (default)": {
+    "n": 24,
+    "hit1": 3,
+    "hit3": 8,
+    "hit5": 12,
+    "hit10": 17,
+    "mrr": 0.292
+   },
+   "plain count": {
+    "n": 24,
+    "hit1": 3,
+    "hit3": 9,
+    "hit5": 11,
+    "hit10": 17,
+    "mrr": 0.303
+   },
+   "only papers up to the same year": {
+    "n": 24,
+    "hit1": 1,
+    "hit3": 2,
+    "hit5": 4,
+    "hit10": 5,
+    "mrr": 0.078
+   },
+   "baseline: most popular journal of the other queries": {
+    "n": 24,
+    "hit1": 4,
+    "hit3": 7,
+    "hit5": 10,
+    "hit10": 16,
+    "mrr": 0.306
+   }
+  }
+ },
+ "lists": {
+  "snapshot": {
+   "source": "https://github.com/stop-predatory-journals/stop-predatory-journals.github.io (_data/*.csv, MIT licence)",
+   "snapshot": "2026-11-23",
+   "journals": 1317,
+   "publishers": 1176,
+   "hijacked": 115
+  },
+  "perturbations": {
+   "names": 1313,
+   "upper case": {
+    "tried": 1313,
+    "found": 1313,
+    "wrong": 0
+   },
+   "'&' ↔ 'and'": {
+    "tried": 1313,
+    "found": 1313,
+    "wrong": 0
+   },
+   "abbreviated 'Int. J.'": {
+    "tried": 1313,
+    "found": 1313,
+    "wrong": 0
+   },
+   "leading 'The'": {
+    "tried": 1313,
+    "found": 1313,
+    "wrong": 0
+   },
+   "one typo (letters swapped)": {
+    "tried": 1313,
+    "found": 1313,
+    "wrong": 0
+   },
+   "one letter dropped": {
+    "tried": 1313,
+    "found": 1308,
+    "wrong": 0
+   }
+  },
+  "realNames": {
+   "distinct": 187,
+   "onList": 3,
+   "hits": [
+    {
+     "name": "International Journal of Engineering Applied Sciences and Technology",
+     "list": "International Journal of Engineering Applied Science and Technology",
+     "how": "near-identical name",
+     "distance": 1
+    },
+    {
+     "name": "International Journal of Computer Applications",
+     "list": "International Journal of Computer Applications",
+     "how": "exact name",
+     "distance": 0
+    },
+    {
+     "name": "International Journal of ADVANCED AND APPLIED SCIENCES",
+     "list": "International Journal of Advanced and Applied Sciences",
+     "how": "exact name",
+     "distance": 0
+    }
+   ]
+  },
+  "hijacked": {
+   "clones": 113,
+   "flagged": 113,
+   "authentic": 113,
+   "notFlagged": 113,
+   "wrong": []
+  },
+  "msPerName": 1.22
+ },
+ "issn": {
+  "valid": 14,
+  "allValid": true,
+  "singleErrors": 1022,
+  "singleCaught": 1022,
+  "transpositions": 86,
+  "transpositionsCaught": 86
+ },
+ "missing": 0
+}

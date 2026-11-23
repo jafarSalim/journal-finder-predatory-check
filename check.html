@@ -1,0 +1,26 @@
+<!doctype html>
+<html><head><meta charset="utf-8"><title>Predatory Check</title><link rel="stylesheet" href="src/ui.css"><link rel="stylesheet" href="src/check.css"></head>
+<body>
+<header class="top"><img class="logo" src="icons/icon128.png" alt=""><h1><span class="b">Predatory</span> Check <span class="muted" style="font-weight:400;font-size:15px">· warning signs, with the reason for each</span></h1>
+ <nav><a href="finder.html">Finder</a><a class="on" href="check.html">Check a journal</a></nav></header>
+<main>
+ <section class="card ask">
+  <label class="f" for="what">Journal name, ISSN or web address</label>
+  <div class="row"><input class="t" id="what" placeholder="e.g. 2169-3536 · International Journal of … · http://journal-site.com"><button class="go" id="go">Check</button></div>
+  <div class="status" id="status"></div>
+ </section>
+ <section id="report"></section>
+ <section class="card self">
+  <h3>Look for yourself</h3>
+  <ol>
+   <li><b>Do you know the journal?</b> Have you or your colleagues read it, cited it or been asked to review for it?</li>
+   <li><b>Can you find the publisher?</b> A real postal address, named editors with institutional pages, a working contact.</li>
+   <li><b>Is it really indexed where it says?</b> Check DOAJ for open-access journals and the indexes directly, not the logos on its site.</li>
+   <li><b>Are the fees clear before you submit?</b> And is peer review described, with a realistic timeline?</li>
+   <li><b>Is the web address the journal's own?</b> Hijacked clones copy a real journal's name and ISSN on a look-alike domain.</li>
+  </ol>
+  <p class="muted">Adapted from the <a href="https://thinkchecksubmit.org" target="_blank" rel="noopener">Think. Check. Submit.</a> checklist. A report with no warning signs is not a guarantee.</p>
+ </section>
+</main>
+<script type="module" src="src/check-ui.js"></script>
+</body></html>

@@ -1,0 +1,31 @@
+{
+ "url": "https://api.openalex.org/sources/S4210202905",
+ "recorded": "2026-11-23",
+ "body": {
+  "id": "https://openalex.org/S4210202905",
+  "display_name": "Electronics",
+  "issn_l": "2079-9292",
+  "issn": [
+   "2079-9292"
+  ],
+  "type": "journal",
+  "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+  "homepage_url": "http://www.mdpi.com/journal/electronics",
+  "works_count": 32617,
+  "cited_by_count": 484747,
+  "is_oa": true,
+  "is_in_doaj": false,
+  "apc_usd": 2896,
+  "country_code": "CH",
+  "summary_stats": {
+   "h_index": 186.0,
+   "i10_index": 11690.0,
+   "2yr_mean_citedness": 5.58
+  },
+  "counts_by_year": [
+   {
+    "year": 1944
+   }
+  ]
+ }
+}

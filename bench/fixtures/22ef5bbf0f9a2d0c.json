@@ -1,0 +1,31 @@
+{
+ "url": "https://api.openalex.org/sources/S101949793",
+ "recorded": "2026-11-23",
+ "body": {
+  "id": "https://openalex.org/S101949793",
+  "display_name": "Sensors",
+  "issn_l": "1424-8220",
+  "issn": [
+   "1424-8220"
+  ],
+  "type": "journal",
+  "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+  "homepage_url": "http://www.mdpi.com/journal/sensors",
+  "works_count": 82596,
+  "cited_by_count": 2133697,
+  "is_oa": true,
+  "is_in_doaj": true,
+  "apc_usd": 3137,
+  "country_code": "CH",
+  "summary_stats": {
+   "h_index": 351.0,
+   "i10_index": 46353.0,
+   "2yr_mean_citedness": 7.152063785736311
+  },
+  "counts_by_year": [
+   {
+    "year": 1985
+   }
+  ]
+ }
+}
